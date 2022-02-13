@@ -1,6 +1,6 @@
 # GenshinTech
 
-A web application consist of ReactJs front-end and NodeJs back-end. This application use the style from *PB Tech* and resources from *Genshin Impact*. 
+A simple shopping website consist of ***ReactJs*** front-end and ***NodeJs*** back-end, that use the style from *PB Tech* and resources from *Genshin Impact*. 
 
 ***The project are for learning purpose only.***
 
