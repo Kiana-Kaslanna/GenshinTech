@@ -1,0 +1,53 @@
+@import '../../../config/style.scss';
+.content_header {
+    -webkit-box-shadow: 0px 0px 10px 1px $color_trans_light_grey;
+    box-shadow: 0px 0px 10px 1px $color_trans_light_grey;
+    width: 100%;
+}
+
+.content_header .width_limit_1100 {
+    justify-content: flex-start;
+}
+
+.content_header_container {
+    padding: 6px 20px 6px;
+    display: flex;
+    align-items: stretch;
+    justify-content: flex-start;
+    min-height: 60px;
+    line-height: 60px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.content_header_container img {
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.content_header_header {
+    font-size: 40px;
+    font-style: italic;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: left;
+}
+
+.content_header_subheader {
+    font-size: 30px;
+    color: $color_grey_3;
+    font-style: italic;
+    margin-left: 25px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .content_header_subheader {
+        display: none;
+    }
+    .content_header_container {
+        max-width: 80vw;
+    }
+}

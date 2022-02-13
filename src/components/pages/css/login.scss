@@ -1,0 +1,113 @@
+@import '../../../config/style.scss';
+.user_login .width_limit_1100 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input_entry,
+.sub_panel {
+    align-items: center;
+    margin: auto;
+}
+
+.user_login .input {
+    max-width: 500px;
+    width: 80vw;
+    margin: 10px auto;
+    display: flex;
+    border: 1px solid $color_grey_4;
+    border-radius: 5px;
+    height: 36px;
+    line-height: 36px;
+    align-items: center;
+}
+
+.user_login input {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.user_login input:focus {
+    outline-width: 0;
+}
+
+.user_login .input .input_svg {
+    margin-right: 10px;
+    background-color: $color_grey_4;
+    height: 38px;
+    width: 45px;
+    fill: white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user_login .input .input_svg svg {
+    height: 25px;
+    width: 25px;
+}
+
+.user_login .light_button,
+.sub_panel .grey_button {
+    border-radius: 5px;
+    max-width: 500px;
+    width: 80vw;
+    margin: 20px auto;
+    height: 36px;
+    line-height: 36px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.user_login a {
+    max-width: 500px;
+    width: 80vw;
+    margin: 20px auto;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 13px;
+    color: $color_dark_blue;
+    display: flex;
+}
+
+.user_login h6 {
+    max-width: 500px;
+    width: 80vw;
+    margin: 10px auto;
+    text-align: left;
+    color: $color_grey_5;
+    font-weight: 500;
+    font-size: 13px;
+    display: flex;
+}
+
+.sub_panel {
+    max-width: 500px;
+    width: 80vw;
+    margin: 20px auto;
+    background-color: $color_light_blue;
+    border-radius: 5px;
+    padding: 20px 20px 3px 20px;
+}
+
+.sub_panel svg {
+    height: 100px;
+    width: 100px;
+    fill: $dark_button_background;
+}
+
+.sub_panel h1 {
+    font-size: 20px;
+    color: $dark_button_background;
+}
+
+#error_text {
+    color: red;
+    text-align: left;
+    font-style: italic;
+    font-size: 13px;
+}

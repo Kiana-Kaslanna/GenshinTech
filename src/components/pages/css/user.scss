@@ -1,0 +1,98 @@
+@import '../../../config/style.scss';
+.user_home .width_limit_1100 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.user_home .vertical_menu {
+    /* width: 300px; */
+    max-width: 230px;
+    width: 80vw;
+    text-align: left;
+    float: left;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.user_home .vertical_menu>div:first-child {
+    border-top: 1px solid $color_grey_3;
+}
+
+.user_home .vertical_menu>div {
+    padding: 15px 10px;
+    border: 1px solid $color_grey_3;
+    border-top: none;
+}
+
+#user_home_cc1 {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    pointer-events: none;
+}
+
+#user_home_cc1 svg {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.user_home_content_page {
+    margin-top: 20px;
+    width: calc(100% - 250px);
+}
+
+.user_home_content_page .title {
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.user_home_content_page>div:nth-child(2) {
+    border-top: 1px solid $color_grey_3;
+}
+
+@media only screen and (max-width: 1150px) {
+    .user_home_content_page {
+        margin: auto;
+        margin-top: 20px;
+        width: calc(80vw + 20px);
+    }
+    .user_home .vertical_menu {
+        width: calc(80vw + 20px);
+        margin: auto;
+        max-width: none;
+        margin-top: 30px;
+    }
+    #user_home_cc2,
+    #user_home_cc3,
+    #user_home_cc4,
+    #user_home_cc5 {
+        display: none;
+    }
+    #user_home_cc1 {
+        pointer-events: all;
+        cursor: pointer;
+    }
+    #user_home_cc1:hover {
+        background-color: $color_light_blue;
+    }
+}
+
+.user_home_cc,
+.user_home_cc_active {
+    cursor: pointer;
+    transition: .3s all ease-in-out;
+}
+
+.user_home_cc_active {
+    color: $color_highlight;
+    font-weight: 500;
+}
+
+.user_home_cc:hover,
+.user_home_cc_active:hover {
+    background-color: $color_light_blue;
+}

@@ -1,0 +1,138 @@
+@import '../config/style.scss';
+
+/* Body */
+
+#Main{
+    display: flex;
+    flex-direction: column;
+}
+
+#Body {
+    margin-top: 102px;
+}
+
+@media only screen and (max-width: 1150px) {
+    #Body {
+        margin-top: 78px;
+    }
+}
+
+
+/* container */
+
+.width_limit_1100 {
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box_100 {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* special effect */
+
+.cursor_pointer {
+    cursor: pointer;
+}
+
+.transition03 {
+    transition: .3s ease-in-out;
+}
+
+.not_visible {
+    opacity: 0;
+}
+
+.hover_rotate,
+.hover_lighter,
+.hover_underline {
+    transition: .3s ease-in-out;
+}
+
+.hover_rotate:hover {
+    transform: rotate(3deg) scale(1.03);
+}
+
+.hover_lighter:hover {
+    opacity: .7;
+}
+
+.hover_underline:hover {
+    text-decoration: underline;
+}
+
+
+/* colored button */
+
+.light_button {
+    background-color: $light_button_background;
+    color: $light_button_foreground;
+    fill: $light_button_foreground;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+.light_button:hover {
+    background-color: $light_button_background_hover;
+    color: $light_button_foreground;
+    fill: $light_button_foreground;
+}
+
+.dark_button {
+    background-color: $dark_button_background;
+    color: $dark_button_foreground;
+    fill: $dark_button_foreground;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+.dark_button:hover {
+    background-color: $dark_button_background_hover;
+    color: $dark_button_foreground_hover;
+    fill: $dark_button_foreground_hover;
+}
+
+.dark_button_active {
+    background-color: $dark_button_background_hover;
+    color: $dark_button_foreground_hover;
+    fill: $dark_button_foreground_hover;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+.dark_button_variant:hover {
+    background-color: $dark_button_background_hover_variant;
+}
+
+.grey_button {
+    background-color: $grey_button_background;
+    color: $grey_button_foreground;
+    fill: $grey_button_foreground;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+.grey_button:hover {
+    background-color: $grey_button_background_hover;
+    color: $grey_button_foreground_hover;
+    fill: $grey_button_foreground_hover;
+}
+
+.danger_button {
+    background-color: $danger_button_background;
+    color: $danger_button_foreground;
+    fill: $danger_button_foreground;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+
+.danger_button:hover {
+    background-color: $danger_button_background_hover;
+    color: $danger_button_foreground_hover;
+    fill: $danger_button_foreground_hover;
+}

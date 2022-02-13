@@ -1,0 +1,150 @@
+@import '../../../config/style.scss';
+.object_line {
+    display: flex;
+    height: 80px;
+    border: 1px solid $color_grey_3;
+    border-top: none;
+    background-color: white;
+    max-width: 100%;
+    width: 80vw;
+    align-items: center;
+    justify-content: space-between;
+    transition: .3s all ease-in-out;
+}
+
+.object_line:hover {
+    background-color: $color_light_blue;
+}
+
+.object_line:first-child {
+    border-top: 1px solid $color_grey_3;
+}
+
+.object_line>div {
+    display: flex;
+    align-items: center;
+}
+
+.object_line h1 {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: start;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.object_line img {
+    height: 70px;
+}
+
+.object_line .img_container {
+    width: fit-content;
+    margin-right: 20px;
+}
+
+.object_line .light_button {
+    display: flex;
+    padding: 5px 15px;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: flex-end;
+    height: 20px;
+}
+
+.object_line svg {
+    width: 20px;
+    height: 20px;
+}
+
+.gallery {
+    width: 100%;
+}
+
+.object_line .light_button svg,
+.object_line .danger_button svg {
+    margin-right: 5px;
+}
+
+.object_line .light_button,
+.object_line .grey_button,
+.object_line .danger_button {
+    font-size: 16px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    justify-content: center;
+    display: flex;
+    height: 20px;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.object_line_title {
+    width: 40%;
+    justify-content: flex-start;
+    margin-left: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.object_line_title a {
+    overflow: hidden;
+}
+
+.object_line_title img {
+    width: 60px;
+}
+
+.object_line_price {
+    width: 20%;
+    justify-content: flex-end;
+}
+
+.object_line_helper {
+    width: 40%;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.object_line_loading {
+    justify-content: center;
+}
+
+@media only screen and (max-width: 1150px) {
+    .object_line {
+        height: auto;
+        flex-wrap: wrap;
+        position: relative;
+        justify-content: flex-start;
+        padding: 10px;
+    }
+    .object_line {
+        display: flex;
+        flex-direction: column;
+    }
+    .object_line_title {
+        width: 100%;
+        margin-left: 0;
+    }
+    .object_line_price {
+        justify-content: flex-start;
+        width: 100%;
+        margin-left: 0;
+    }
+    .object_line_helper {
+        display: flex;
+        flex-direction: column;
+    }
+    .object_line_helper,
+    .object_line_helper>div {
+        width: -webkit-fill-available;
+        margin-right: 0px;
+    }
+    .object_line_helper>div {
+        margin-top: 5px;
+    }
+    .object_line .light_button,
+    .object_line .grey_button,
+    .object_line .danger_button {
+        margin-left: 0;
+    }
+}

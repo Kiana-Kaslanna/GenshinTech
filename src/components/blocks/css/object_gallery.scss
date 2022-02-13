@@ -1,0 +1,83 @@
+@import '../../../config/style.scss';
+.object_gallery .img_container {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+}
+
+.object_gallery .img_container img {
+    margin: 0;
+}
+
+.object_gallery .light_button {
+    width: auto;
+}
+
+.object_gallery .title {
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.object_gallery .divth {
+    background-color: $color_highlight;
+    color: white;
+    font-weight: 500;
+}
+
+.object_gallery .divth,
+.object_gallery .divtr {
+    padding: 10px 20px;
+    border: none;
+    display: flex;
+    border-bottom: 3px solid white;
+}
+
+.object_gallery .divth>div,
+.object_gallery .divtr>div {
+    width: 50%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.object_gallery .divtr>div {
+    text-align: left;
+}
+
+.object_gallery .divtr {
+    cursor: pointer;
+    background-color: white;
+    border-bottom: 1px solid $color_grey_1;
+    transition: .3s all ease-in-out;
+}
+
+.object_gallery .divtr:hover {
+    background-color: $color_light_blue;
+}
+
+@media only screen and (max-width: 1150px) {
+    .object_gallery table {
+        width: calc(80vw + 20px);
+    }
+    .object_gallery .divth {
+        display: none;
+    }
+    .object_gallery .divtr {
+        flex-direction: column;
+    }
+    .object_gallery .divtr>div {
+        width: 100%;
+        text-align: end;
+        font-size: 18px;
+    }
+    .object_gallery .divtr>div:first-child {
+        text-align: start;
+        font-weight: 500;
+        color: $color_highlight;
+        font-style: italic;
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+}

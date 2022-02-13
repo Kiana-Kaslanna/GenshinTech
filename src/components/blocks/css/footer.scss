@@ -1,0 +1,53 @@
+@import '../../../config/style.scss';
+.footer {
+    height: -webkit-fill-available;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 50px;
+}
+
+.footer_block {
+    text-align: left;
+    padding: 10px;
+    max-width: 300px;
+    width: 80vw;
+}
+
+.footer_block h1 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.footer_block div {
+    // margin-left: 10px;
+    cursor: pointer;
+    padding: 5px;
+    transition: all .3s ease-in-out;
+}
+
+.footer_block div:hover {
+    background-color: $color_grey_5;
+}
+
+.footer_block div::before {
+    content: "⦿";
+    margin-right: 10px;
+}
+
+.footer_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: $color_grey_6;
+    color: white;
+    width: 100%;
+    justify-content: center;
+}
+
+.footer_block_text{
+    padding: 11px;
+    font-size: 13px;
+    width: 100%;
+    background-color: $color_grey_5;
+}

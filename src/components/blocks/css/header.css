@@ -1,0 +1,38 @@
+#Header {
+    overflow: hidden;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    z-index: 10;
+    width: 100%;
+    top: 0px;
+    position: relative;
+    z-index: 505;
+}
+
+#HeaderPC,
+#HeaderMB {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+#HeaderPC {
+    display: flex;
+}
+
+#HeaderMB {
+    display: none;
+}
+
+@media only screen and (max-width: 1150px) {
+    #HeaderPC {
+        display: none;
+    }
+    #HeaderMB {
+        display: flex;
+    }
+}
