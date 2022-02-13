@@ -1,0 +1,1052 @@
+{
+    "Sea-Dyed Blossom": {
+        "name": "Sea-Dyed Blossom",
+        "_id": "a_23599",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Ocean-Hued Clam",
+        "description": "A soft flower that has taken on the many shades of the capricious ocean. It shines with wondrous colors under the moon's silver light.",
+        "story": "A tender flower from the ocean. Its core is adorned with pure pearls.<br>The songs of Watatsumi Island say that these flowers bloom in the pearl-lit depths.<br>Steeped in the lovesickness of the diving sea-daughters and the gentle moonlight, they would give off a pearly gleam.<br>When all conflicts have ceased, the sea beasts shall no longer weep for their lonesome companions,<br>And when the moonlight rises over Touzan, the lovely deity shall rise and sing.<br>\"Come, sea-daughters, come and see, O people of my heart, for the moon is out tonight.\"<br>\"Though Touzan might fall this night, the lightning and the storm can never hide the moon's pearly glory...\"<br>The lonesome maiden will sing and dance upon the moon-silver waves.<br>The divers shall forget the pain of loss, and even the tender flowers will regain their vibrance.",
+        "price": "6"
+    },
+    "Deep Palace's Plume": {
+        "name": "Deep Palace's Plume",
+        "_id": "a_23597",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Ocean-Hued Clam",
+        "description": "A down feather with the same hue as coral, said to come from a shrine maiden's ceremonial garment.",
+        "story": "In the days when the many clans first saw the light of day, Omikami chose shrine maidens from among the people of the sea.<br>In the island-songs of history, the first Divine Priestess was once one of the sea-daughters who collected pearls.<br>She would come amongst the children, who in their meaningless conflict, lost sight of their future,<br>And amongst the old who had lost sight of life's beauty amidst ruthless tragedy.<br>The Divine Priestess comforted the people using her lovely songs and gentle words,<br>And even amidst the stormy times, the people of Watatsumi saw hope for the first time.<br>This sea-born feather was said to have come from that Divine Priestess' ceremonial garb.<br>It was plucked by mistake by a child's tender hand, and was preserved by a fretful person.<br>Later, when the brave hero and priestesses rushed to their irrevocable sacrifice,<br>The Divine Priestess' ceremonial garment was not lost, but passed down in memory to the present day.",
+        "price": "6"
+    },
+    "Cowry of Parting": {
+        "name": "Cowry of Parting",
+        "_id": "a_23600",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Ocean-Hued Clam",
+        "description": "A clean, flawless seashell that comes from the bottomless ocean.",
+        "story": "Time seems to pass exceedingly slowly in the silent, fluorescent ocean depths.<br>Even the bright seashells might grow forgetful as the years lengthen.<br>The people of Watatsumi once came forth from the darkness, and thus bade farewell to the long dreams of the deep.<br>They escaped the prying gaze of the Dragonheirs in the dark, walking the glimmering coral stair into the realm of daylight.<br>It is said that at that time, the ocean people would take a single seashell as remembrance for their clan.<br>And as for those who had lost theirs, they would be welcomed into a new family.<br>In the ancient tongue, these pure shells would become known as the Parcels of Reunion.<br>Two parties who embrace shall not again be parted by an outside force, though this enjoining is not itself eternal.<br>These seashells, therefore, were a farewell to life beneath the waves, and the beginning of a new life under the sun.",
+        "price": "6"
+    },
+    "Pearl Cage": {
+        "name": "Pearl Cage",
+        "_id": "a_23596",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Ocean-Hued Clam",
+        "description": "The shining pearls that the shrine maidens of Watatsumi Island offer up shine eternally and never dim.",
+        "story": "To the sea people, the bright pearls that Watatsumi's deity once praised are priceless treasures.<br>Only the Divine Priestess had the right to sing the great song themed around those pearls.<br>Legend has it that the rainbow-hued clams produced these flawless gems in gratitude for Watatsumi's tenderness.<br>In latter days, it was even said that the bloodline of the Divine Priestess was originally birthed from these pearls.<br>Having stepped from her soft, vivid cradle, she and the sisters who danced with the sea and moon were greatly favored,<br>For out of his rejoicing and love, Omikami gave unto them beautiful gems that granted them the pure desire to pursue daylight.<br>In the hands of those whose veins run true with Watatsumi blood, pearls seem to gleam brighter than normal.<br>Perhaps this is but an ancient tale, the truth of which can no longer be verified.<br>But it is said that at the point of defeat, the Divine Priestess and the twin sisters exchanged their clothes and concealed themselves within the endless waves.<br>Only this bright pearl was lost in the rippling tumult, returning to the silent solitude of the depths.",
+        "price": "6"
+    },
+    "Crown of Watatsumi": {
+        "name": "Crown of Watatsumi",
+        "_id": "a_23598",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Ocean-Hued Clam",
+        "description": "An ancient, intricate crown that was once used by a forgotten clergy member. Today, this relic has been enshrined with great ceremony by the people of Watatsumi.",
+        "story": "Omikami once selected his clergy from amongst the people of Watatsumi, personally giving them these circlets of office.<br>But when the age of the martyrdom passed, and the old priesthood passed with it, these lovely crowns were sealed.<br>The people of the sea sing that these crowns of pearls and coral will never be stained by any dirt,<br>And that any who should have the fortune to receive one were recognized as rulers by Omikami.<br>The valiant vassal lord known as Touzannou and the twins who traversed the waves freely...<br>They all had Omikami's tender gaze and favor, and have been immortalized in the islanders' songs.<br>It is said that these rulers once served as the deity's auxiliaries, guiding the people of the sea to farm, fish, and hunt on their island.<br>But as the time of destined martyrdom came, a god would fall.<br>Bearing the hopes and memories that were brought up from the ocean depths, and steeped in a history and culture that are now lost,<br>These intricate and enchanting crowns passed with their owners into the forgotten rifts.",
+        "price": "6"
+    },
+    "Bloom Times": {
+        "name": "Bloom Times",
+        "_id": "a_23584",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Husk of Opulent Dreams",
+        "description": "A small golden ornament with six petals that shall never wilt. It symbolizes the transience of mortal glories.",
+        "story": "What he saw in his dream was a phantom dancing to the music under the moonlight,<br>Just like the young man in the distant past, who was akin to a blank sheet of paper,<br>And like a pure yet fragile persona,<br>Emerging once the resentment and suffering had dissipated.<br>The wanderer did not know that he had any faculties for dreaming,<br>Thinking that this must have been the researchers' little trick,<br>Or perhaps it was the infinitesimal resistance of that bygone heart.<br>\"You once acquired the 'heart' that you always dreamed of,\"<br>\"But it was but a mere prop for lies and deception.\"<br>\"Now, you will finally obtain what belongs to you,\"<br>\"And this false construct of a body can at last aspire to power over this world.\"<br>\"Yet, this is all but a fleeting dream of glory.\"<br>\"And it will all one day drift away amidst the sighs of a suffering earth...\"<br>Was it a \"him\" from the past who said this? Or \"him\" from the future?<br>The vagrant cared not, for when he awakened,<br>It was not he, but that ethereal future that dissipated.",
+        "price": "6"
+    },
+    "Plume of Luxury": {
+        "name": "Plume of Luxury",
+        "_id": "a_23582",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Husk of Opulent Dreams",
+        "description": "A feather-shaped token that was brought forth from a secluded hall. The compassion of its creator led to it being left within that mansion along with a certain slumbering form.",
+        "story": "The long-wandering eccentric no longer thinks about this,<br>But when he closes his eyes, he can still see the moonlit nights over Tatarasuna and the burning furnace flames.<br>The kind young deputy said:<br>\"This gold ornament is a proof of identity granted by the Almighty Shogun,\"<br>\"But as you travel the world, please bear this in mind,\"<br>\"Never to reveal your identity to others.\"<br>The upright Inspector said:<br>\"This gold ornament may be a proof of identity granted by the Almighty Shogun,\"<br>\"But you are neither man nor mechanism,\"<br>\"And so I can only deal with you in this fashion. Do not hold this against me!\"<br>The wanderer who has left yesterday in the dust no longer thinks about it,<br>But when he covers his ears, he can still hear the wild winds that roared that year.<br>A pair of expectant eyes said:<br>\"This gold ornament is a proof of identity granted by the Almighty Shogun,\"<br>\"It must surely be able to save the people.\"<br>The intelligent, lovely shrine maiden said:<br>\"This gold ornament is a proof of identity granted by the Almighty Shogun,\"<br>\"And she will not abandon you.\"<br>\"As for me, I shall do my best to send for help immediately...\"<br>...But in the end, the golden arrow-feather were covered in dust,<br>And all tales were incinerated in karmic flames till nothing remained.",
+        "price": "6"
+    },
+    "Song of Life": {
+        "name": "Song of Life",
+        "_id": "a_23585",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Husk of Opulent Dreams",
+        "description": "As far as Inazuma is concerned, this is some small object from overseas. The heart of this mechanism has been removed, and its hands no longer turn.",
+        "story": "He was originally born to be a vessel for a \"heart.\"<br>But he shed tears in his dreams.<br>His creator observed thus:<br>He was too fragile, whether it be as a human or as a tool.<br>Yet his creator would not destroy him, and so allowed him to continue slumbering.<br>In her latter works, she would also consign designs that might store such a heart to obsolescence.<br>Not long after, that noblest and most prestigious \"proof\" in the world would come to have no home,<br>And thus was sent to the great shrine at Mt. Yougou.<br>Later, the beautiful puppet awoke and began his wanderings.<br>He observed many a heart,<br>Good ones, upright ones, strong ones, gentle ones...<br>The puppet, too, desired a heart.<br>Later, the lovely puppet would finally obtain that \"heart.\"<br>It was, after all, his purpose for being, the very reason he existed.<br>Yet, it was not what the puppet truly desired,<br>For it did not contain any blessings,<br>But was instead a sacrifice brimming with selfishness, hypocrisy, cunning and curses,<br>All wrapped in an amiable husk.<br>Good and evil were the song of sentient life, useless and cacophonous.<br>But if he were to wrench this \"heart\" out,<br>He would no longer be able to feel anything at all...",
+        "price": "6"
+    },
+    "Calabash of Awakening": {
+        "name": "Calabash of Awakening",
+        "_id": "a_23581",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Husk of Opulent Dreams",
+        "description": "A gourd that has been adorned with powdered gold and black paint. Its original color can no longer be discerned, but its main use seems to be as a performance prop.",
+        "story": "Amenoma, Kyoushin, Isshin, Doume, Senju.<br>These were, once upon a time, the five branches of the Raiden Gokaden,<br>But today, only Amenoma still maintains its line of succession.<br>While the Isshin line can just barely be said to have extant descendants.<br>In the eyes of the people, this is just the natural result of the ravages of time.<br>They never once suspected that such sudden falls from grace might have some hidden mystery behind them.<br>The wanderer would never admit to this.<br>He would never admit that he had done this as an act of revenge against the bladesmith.<br>Nor would he ever mention the truth,<br>That he had abandoned his schemes halfway because they had suddenly become dull.<br>He would only say, in that tone of voice he had learned from a certain researcher:<br>\"It was all just a little experiment into human nature.\"<br>In Inazuma's traditional theater, there is a certain character known as \"Kunikuzushi.\"<br>Such characters are often schemers and usurpers of nations.<br>At the end of his wanderings, he chose this name as an act of his own will.<br>And as for the name he had once used, even he no longer remembered it.<br>It is a norm in Inazuma's traditional theater to join the names of a play's three acts together to form the play's name.<br>For example, \"Sumirezome,\" \"Sangetsu,\" and \"Kogetsukan\" come together,<br>Thus forming the play \"Sumirezome Sangetsu Kogetsukan.\"<br>Perhaps a day will come when this body's adventures, its experiences,<br>Will become tales to be passed along by mortals, distant memories that flow through the ley lines.<br>But for now, his three acts are still ongoing.",
+        "price": "6"
+    },
+    "Skeletal Hat": {
+        "name": "Skeletal Hat",
+        "_id": "a_23583",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Husk of Opulent Dreams",
+        "description": "A hat that once shielded a wanderer from sun and rain. It eventually became a convenient tool with which faces might be hidden and expressions obscured.",
+        "story": "\"Where are you going, wanderer?\"<br>The roving youth was stopped by a child's shout.<br>That was a child of a Tatarasuna crafts-person, and while he was ill, his eyes were still clear.<br>The youth told the child that he was bound for Inazuma City.<br>\"But it's raining really hard right now. They say that the people who left haven't returned!\"<br>The youth opened and closed his mouth a few times... But at last could only give the child a small smile.<br>The next time he set foot upon that island, that child was nowhere to be found.<br>\"Where are you going, Inazuman? This boat is not for you!\"<br>The wandering young man was halted at the harbor by a boatman.<br>But before the youth could draw his blade, a man in his company stopped him.<br>The man told the mariner that the outlander youth was with him.<br>\"Ah, so he's your guest, sir? My apologies for my presumption.\"<br>The man gave the youth a coat to keep the cold out, but the youth shook his head.<br>He had no need of such things &#8212; he only wished to know what interesting things he might find on this long journey.<br>\"Lord Harbinger. Where are you headed?\"<br>The youth, hating chatty humans the most, gave his subordinate a backhand slap.<br>But he also loved watching expressions of terror and helplessness play across human faces,<br>And it was perhaps precisely because of this imbecilic underling's expressiveness that he had kept them around.<br>He told the groveling, quailing figure that they were headed east, for Mondstadt.<br>\"I understand! I'll get your bodyguards ready right now!\"<br>He had no need of guards, of course, but he was lazier still to barter words with cretins.<br>Donning his wanderer's hat, he headed eastward alone.<br>\"Child, where are you going?\"<br>Returning home, the youth was stopped at the roadside by an old woman.<br>He told her that he was going west.<br>\"To Yashiori Island, then? What business are you on?\"<br>She had said this thoughtlessly, knowing only that things had not been peaceful of late.<br>The youth thanked her for her concern with earnest smile and told her that he was bound for an appointed meeting.<br>As the boat gradually approached the shore, a lady in foreign garb could be seen standing by the shoreline,<br>And she threw a small crystal sphere at the youth from afar.<br>Catching it with ease, he lifted it up to the dying, bloodied sun.",
+        "price": "6"
+    },
+    "Maiden's Distant Love": {
+        "name": "Maiden's Distant Love",
+        "_id": "a_23479",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Maiden Beloved",
+        "description": "A fragrant flower that will bloom for all eternity and never wither.",
+        "story": "The maiden's flower. Fresh and elegant just like its original owner.<br>The books say that this species of flower has long been extinct.<br>Just like that passage the maiden had read countless times in books:<br>\"The damsel in distress was saved by the white knight in shining armor.\"<br>\"And they exchanged flowers as blessings to one another.\"<br>Though a maiden's heart is said to change with the seasons, just like a flower,<br>This flower remained constant.<br>For her heart had stopped in that moment long ago:<br>The moment that she met the knight.",
+        "price": "6"
+    },
+    "Maiden's Heart-Stricken Infatuation": {
+        "name": "Maiden's Heart-Stricken Infatuation",
+        "_id": "a_23477",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Maiden Beloved",
+        "description": "A feathered accessory that carries the longing for a certain someone, like a migratory bird on the wind.",
+        "story": "An old but delicate feathered ornament.<br>After many years, it is now covered in layers of dust.<br>For the maiden, time stopped still the day she met the knight.<br>Nothing mattered to her anymore, not even love and youth.<br>She sought him constantly, wandering far like a lost bird without a nest to cling to.<br>\"May my love reach the knight,\" she prayed.<br>Meanwhile, the knight dedicated himself to the pursuit of chivalry.<br>In a distant land where ancient empires crumbled,<br>Would the knight see the scenery she dreamt of?",
+        "price": "6"
+    },
+    "Maiden's Passing Youth": {
+        "name": "Maiden's Passing Youth",
+        "_id": "a_23480",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Maiden Beloved",
+        "description": "The hands of time will never come to an end, but the same cannot not be said for those cherished years of the young maiden's life when she was doted upon.",
+        "story": "A delicate timepiece.<br>It stood as a testament to the inevitable passage of time, indifferent to its owner's feeling.<br>The maiden's time would one day come to an end.<br>But her waiting would not.<br>The short hand seemed to be constantly chasing after the long hand.<br>Much like the incessant longing that filled the maiden's heart and mind.<br>Years after the event, she still remembered the knight she met that day.<br>The white knight that came to her. The white knight she had been waiting for ever since.",
+        "price": "6"
+    },
+    "Maiden's Fleeting Leisure": {
+        "name": "Maiden's Fleeting Leisure",
+        "_id": "a_23476",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Maiden Beloved",
+        "description": "A vessel made with sweet black tea in mind rather than bitter liquor.",
+        "story": "The maiden's most cherished teaware.<br>It was once filled with elegant black tea.<br>Indulging herself in pastries and tea,<br>She cared not one bit about the mundane world. This was her privilege as a maiden.<br>\"This flower shall be my medal. That is all I need.\"<br>The knight said to her on the day they met.<br>\"But, my heart is already&#8212;\"<br>Not finishing her confession was her privilege,<br>but also the chains of courtliness the maiden had to bear.",
+        "price": "6"
+    },
+    "Maiden's Fading Beauty": {
+        "name": "Maiden's Fading Beauty",
+        "_id": "a_23478",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Maiden Beloved",
+        "description": "A meticulously well-maintained woman's hat that keeps wrinkles safely out of sight.",
+        "story": "Even when surrounded by flowers from her courters, <br>The maiden never removed her hat to get a better look at them.<br>Their names and faces were not worth remembering.<br>For years, at the end of every day,<br>the maiden would brush off the dust on her hat.<br>But the passage of time showed in her face, too &#8212; and unlike the dust, it could never be brushed off.<br>As time passed, fewer and fewer courters visited her with flowers.<br>What did it matter? For her, time had already stopped long ago on that fateful day.",
+        "price": "6"
+    },
+    "Flower of Accolades": {
+        "name": "Flower of Accolades",
+        "_id": "a_23549",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Tenacity of the Millelith",
+        "description": "A flower made from gold leaf. It represents the glories and honors attained by its wearer.",
+        "story": "In an age when solemn songs were sung from the clifftops, a meteorite once fell into the Chasm.<br>Out of the depths of the boundless night sky above, the iron meteorite plummeted to the ground, turning the earth to powdered glaze on impact.<br>Though human life is fleeting, Rex Lapis personally ordered the Millelith to rush to the defense of the mines.<br>As the Abyss flooded forth, the Millelith escorted countless civilians to safety.<br>Miners tell tales of a small number of troops from the rearguard, who remained in the Chasm.<br>Together with the nameless yaksha, they fought courageously until they, too, made the ultimate sacrifice among the jagged rocks.<br>In time, the names of both mortals and adepti alike were forgotten. In time, even the mountains and rivers change form.<br>Yet there will never come a time when their honorable deeds shall be forgotten. Like this gold-leafed flower, they will shine on forever.<br>500 years on, the harbor city remains as steadfastly peaceful today as the day the disaster was quelled.<br>And still, the troops wear this golden flower with pride, in honor of the sacrifice made by their forebears.",
+        "price": "6"
+    },
+    "Ceremonial War-Plume": {
+        "name": "Ceremonial War-Plume",
+        "_id": "a_23547",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Tenacity of the Millelith",
+        "description": "A falcon feather worn on ceremonial occasions. It displays the dignity and resolve of Liyue Harbor to the outside world.",
+        "story": "As a mark of military service, the Millelith use the feathers of high-altitude birds of prey to adorn their uniforms.<br>These tail feathers are only worn on ceremonial occasions. They boost the morale of the citizenry and fill visiting outlanders with a sense of awe.<br>It is said that in its inception, this ceremonial custom was inspired by the nameless yaksha.<br>In the heat of battle, when the yaksha was engaged in fierce combat with the Abyss, some of its plumage was stripped away. The feathers that fell to the ground were seen as a symbol of hope.<br>In the end, the brave yaksha and fearless citizenry would sink into an exhausted slumber in the dark lair of the enemy.<br>Rex Lapis was moved by their sacrifice and observed a prolonged vow of silence among the low murmuring of the mountain stone.<br>The people claim that the nameless yaksha that defended The Chasm was not, in fact, under the command of Rex Lapis.<br>Instead, they believe that it was an act of redemption from a longstanding sin... a price paid for cowardice and dereliction of duty.<br>Whatever the truth of the matter, the yaksha that had once soared through celestial heights had now returned to a free existence amongst the clouds.<br>As for the soldiers, trapped in eternal slumber in the depths of The Chasm... their legend continues to evolve with the flow of time.",
+        "price": "6"
+    },
+    "Orichalceous Time-Dial": {
+        "name": "Orichalceous Time-Dial",
+        "_id": "a_23550",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Tenacity of the Millelith",
+        "description": "A simple device for telling time. This was once standard-issue for the Millelith during times of war.",
+        "story": "A hardy timepiece powered by sunlight and moonlight, capable of capturing rays of light even on the darkest of days.<br>When Liyue was threatened by a pitch-black malice, this time-dial helped the soldiers to remember the warmth of the sun.<br>In the course of fighting side-by-side with the yaksha, these mortal soldiers could not escape being contaminated by karma, or harmed during the slaughtering.<br>To avoid being consumed by the darkness of constant killing, the Millelith soldiers used this timepiece to silently mark the passage of time during each battle.<br>They fixed a unified marching pace and schedule so that one squadron of mortal soldiers would take the battlefield as the one before them retreated.<br>This cycle of advance and retreat continued all the way to the depths of the Chasm, where yaksha and valiant soldiers both fell.<br>100 years later, this timepiece was unearthed by a miner. Its bronze surface sparkled in the bright starlight.<br>Urban legends tell of a collector of curios wearing black robes, who roamed the market streets one day, buying up Orichalceous Time-Dials and paying a generous sum for each one.<br>Some sellers queried him, curious to know what his reasons were, but he deftly deflected all their questions with an array of excuses and other verbal tricks.<br>As for what this individual's true motive was, perhaps only the unyielding forward march of time can finally deliver a satisfying explanation.",
+        "price": "6"
+    },
+    "Noble's Pledging Vessel": {
+        "name": "Noble's Pledging Vessel",
+        "_id": "a_23546",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Tenacity of the Millelith",
+        "description": "A golden cup used by the Millelith to take their oaths. Still bears the lovely scent of wine.",
+        "story": "When the Millelith was first founded, Liyue was still a savage and dangerous place.<br>The elders of towns, villages, and tribes would pledge oaths of allegiance with a golden cup.<br>As a show of loyalty to Rex Lapis and duty to their countrymen,<br>They selected valiant soldiers from all regions. These soldiers became known as the Millelith.<br>They would go on to take up arms with a yaksha in battle, fighting from the rearguard. They too drank from that golden cup.<br>It was a final toast to the benevolent and majestic Lord of Geo. With their gaze fixed ahead of them, they stormed into the abyss.<br>Hundreds of years later, a conceited adventurer retrieved the cup from the depths of The Chasm and washed away the imperfections.<br>Miraculously, the cup remained whole and untarnished by the passage of time. The pitch-dark of that subterranean realm had failed to remove its radiance.<br>Yet more centuries passed. Eventually, the people of Liyue would tell tales of an era of catastrophe and a nameless yaksha,<br>Tales of how heroes from disparate heritages and different lands united under a single banner against the Abyss...<br>Inevitably, the tale would touch upon the cup, and how the blood of those that went before remained clear and spotless as the day it was spilled.",
+        "price": "6"
+    },
+    "General's Ancient Helm": {
+        "name": "General's Ancient Helm",
+        "_id": "a_23548",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Tenacity of the Millelith",
+        "description": "A splendorous helmet from ages past. Clean the dust away and it will look brand-new once more.",
+        "story": "The commander who fought together with the nameless yaksha fell in the line of duty,<br>As did the handful of his compatriots who fought alongside him.<br>To ensure that the afflicted civilians could safely escape, and to maintain their honor in the eyes of the Lord of Geo,<br>The helmet-clad troops of the front line took the lead, pointing their spears towards the Abyss and charging into battle.<br>Disaster arrived in the land of glaze, and a horde of ancient foes came surging forth.<br>At the order of Rex Lapis, the yaksha fought a bloody battle against the warped creations of the Abyss.<br>The fight went on until the last drop of blood had soaked into the battlefield and all that was impure had been cleansed.<br>As the tide of the Abyss receded, the glaze sands shone gloriously once more,<br>But when the gloom that had filled the skies above The Chasm had finally dissipated, the yaksha disappeared without a trace.<br>As for the general and his men who left their helmets on the battlefield, they rest there in peace forevermore.",
+        "price": "6"
+    },
+    "Magnificent Tsuba": {
+        "name": "Magnificent Tsuba",
+        "_id": "a_23579",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Emblem of Severed Fate",
+        "description": "Legends hold that this ornate hand guard was once fitted upon a sword gifted to the oni who betrayed the Shogun.",
+        "story": "Mother had bared her fangs against the Shogun, who had been kind to her and who had given her a treasured sword.<br>In the end, the only thing that was sent back to the Mikoshi Clan was the tsuba of that blade which she had loved so dearly.<br>Mother's long-cherished wish was to overcome the destiny of life and death with her boiling passion.<br>She would make such contributions as to make an eternal name for the ever-thinning blood of the war-oni.<br>If she was engulfed by the pitch-black tiger-beast of sin itself, then she would tear it apart from the inside.<br>She would've proven her valor resoundingly under the Electro Mitsudomoe banner,<br>And she thought she could wash her bloodstained juunihitoe battle-garb clean.<br>But it was stained black in the end, together with her fiercely beating heart...<br>From then on, her eldest son, who should have inherited the family fortune, lived in seclusion in a village outside the city,<br>With naught but the mountain and wood as his friends &#8212; that is, until he met that girl...<br>\"What a pain. Well, if you wish to abandon your past, allow me to give you a new name.\"<br>After hearing about his past, the girl who possessed jet black wings sneered disdainfully.<br>\"Well, you shall be called Iwakura. 'The seat of rock.' A name that human words cannot harm.\"<br>\"Come on, mortal in whose veins runs the blood of the oni, be glad. Smile a little!\"<br>\"You should know that names given by us Yougou Tengu are blessed with divine powers.\"<br>\"Besides, the name 'rock' suits you &#8212; it certainly suits your mind and your muscles, that's for sure.\"<br>\"Well then, when the cherry blossoms fall next year, let's have a duel here, 'Iwakura.'\"<br>\"Child of the oni, hone your swordsmanship and become a foe whom the Yougou Tengu would not be ashamed to cross swords with.\"<br>\"Ah, yes! If you manage to touch me, you'll get to call your secret blade 'Tengu Victor'!\"<br>\"After all, if you get to that point, you'll have a sword that'll let you 'triumph over the tengu.'\"",
+        "price": "6"
+    },
+    "Sundered Feather": {
+        "name": "Sundered Feather",
+        "_id": "a_23577",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Emblem of Severed Fate",
+        "description": "This was once the black feather of a certain tengu warrior, and was the treasured souvenir of an ancient swordsman.",
+        "story": "Surrounded by the black feathers seized by his onrushing blade, the man who stood on the cusp of becoming a swordmaster...<br>...Finally caught the girl who had been untouchable for so many years...<br>\"Yikes, that was a close shave. Well done indeed.\"<br>\"If your sword hadn't been broken by your strength,\"<br>\"I would've died here for sure. Well then...\"<br>Teruyo, shall we change the venue for our duel next year?<br>There are a few places I know of where you can also see the scarlet sakura falling...<br>As he looked around at the small shrine he had destroyed, holding the tengu's trembling hand,<br>These words lay on the tip of Doukei's tongue even as he stared at the black feathers that he had sliced off.<br>\"You did touch me, after all. I must admit that this is clearly your victory.\"<br>Victory has not been decided yet. Let's meet again next year, he wanted to say.<br>\"Now, your sword can even surpass the speed of a tengu.\"<br>\"I will never forget a single one of our duels in these past thirteen years.\"<br>\"But as a Tengu, I have duties to the clan that I must fulfill.\"<br>\"Thinking back, I changed your name in hopes that you might escape from the curse of the oni bloodline.\"<br>\"With that war, non-human blood grows thinner and thinner.\"<br>\"Ah well. We should not covet the happy endings that humans enjoy, after all. But you're different.\"<br>\"You are now 'Iwakura.' You are no longer the 'Mikoshi' who shoulders the burden of oni blood.\"<br>\"Goodbye, Doukei, and please forget me.\"<br>\"Use your sword for the Iwakura bloodline... and open a path that belongs to the Iwakura alone.\"",
+        "price": "6"
+    },
+    "Storm Cage": {
+        "name": "Storm Cage",
+        "_id": "a_23580",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Emblem of Severed Fate",
+        "description": "An exquisite seal cage patterned with pansies painted upon a black backdrop, decorated with shining inlaid seashells and intricate gold-work.",
+        "story": "In the distant past, when Seirai Island had yet to be shrouded by storm clouds, memories would rise and fall like breaths.<br>In the end, the elegant container that contained thunderstorms and tremors could not be handed over to the one to whom it was promised.<br>\"Did you come to me because the string is broken again? You're such a headache.\"<br>\"Other than your swordsmanship, you're just an idiotic old gambler, aren't you?\"<br>\"Hmph. Don't you look down on me. I learned my archery from a tengu, you know? It's pretty famous, too.\"<br>\"It's just that I'm too good with a sword, you know? That's why no one ever talks about my archery.\"<br>\"Actually, now that I think about it, that's such a waste of good archery. How about I teach it to you, then?\"<br>Once upon a time, you mended that idiot's broken seal cage, all the while speaking those harsh words...<br>Once upon a time, though you used harsh words to divert others, you could not help but smile faintly.<br>\"Please. You're already a Hatamoto with important responsibilities. Why are you still running around looking for trouble?\"<br>\"And you're already married too, to a sweet wife no less. Why do you spend your days wandering and gambling, huh?\"<br>You're already...<br>The question was on the edge of your lips, but you were unable to ask, and you decided never to bring it up again.<br>If the Lady Saiguu had been here with you, she would surely have put it in a clever and merry way...<br>\"It doesn't matter anymore. I gave myself a holiday, at least for today.\"<br>\"Let's leave that whole shrine business behind and sneak off to the seaside, just like we did when you were little.\"<br>And so he dragged you to the harbor, where you watched the ships sailing back and forth, as if in a trance.<br>You listened to him talk about Teruyo of the shrine, and how she had inherited her master's beauty and skill.<br>You listened to him talk about his terrifying nightmares, in which he cut off his own head...<br>But you both knew that those were just words to hide the melancholy of adulthood.<br>Later, a long time later,<br>Overlooking the mossy reefs and the harbor where the two of you once had that quiet rendezvous...<br>For the gambler to win his bet again, for the sake of praying for his safety...<br>Once again, you dared to stand upon those heights, holding up the seal cage that you made with your own hands.<br>Bearing the hope of retrieving those memories, you gathered the power of thunder and lightning.",
+        "price": "6"
+    },
+    "Scarlet Vessel": {
+        "name": "Scarlet Vessel",
+        "_id": "a_23576",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Emblem of Severed Fate",
+        "description": "An intricately-designed wine vessel that a world-famous martial artist once drank from.",
+        "story": "With his secret sword technique, Tengu Sweeper, Iwakura Doukei became the Kujou Clan's swordsmanship instructor.<br>He also received the title of \"Douin\" and founded a successful sword school.<br>As he headed off to take up his post at the Kujou Estate, Doukei, who had long learned how to drink,<br>Stepped into the branch shrine that had been utterly destroyed by his completion of the Tengu Sweeper.<br>Here, in the courtyard of this abandoned branch shrine, he had sparred with the Tengu of Yougou thirteen times in the last thirteen years.<br>He remembered his encounter with the black-winged tengu who had called herself \"Teruyo of Yougou\"...<br>Thirteen years went by like a dream<br>The scarlet snow flies through the shadowed pass like smoke<br>You have now gone afar<br>The Sacred Sakura petals fell then, too, as if they were snow from the sky.<br>The branch shrine had lost the god it worshipped, but it was still in a fine state.<br>Laughter as clear as spring water echoed between the mountains.<br>But never again would the two set foot in that desolate yard.",
+        "price": "6"
+    },
+    "Ornate Kabuto": {
+        "name": "Ornate Kabuto",
+        "_id": "a_23578",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Emblem of Severed Fate",
+        "description": "A sturdy and hard helmet worn as armor by a noble samurai.",
+        "story": "\"I've been wondering, Sir Douin, could your sword actually slice through lightning?\"<br>So said the young Kanjou Head, Hiroshi, while sheathing his blade. Douin replied thus, woodenly:<br>\"How could that be possible? At most, I'd say that it could strike a Tengu in mid-air.\"<br>\"That said, though, no one has ever brought a tengu down before. Not even once.\"<br>\"Is that so? In that case, where does the name of your secret blade, 'Tengu Sweeper,' come from?\"<br>Seeing that Douin did not answer, the Kanjou Head who had built Ritou up said:<br>\"Ah, if it wasn't for old man Kujou making a move first, I would've loved to recruit you.\"<br>\"With your sword, even Ako Domeki of Seirai would be no match...\"<br>Cleaving through the storm clouds, that tengu had given him a new name and a new life.<br>She threw him the rusty blade and told him to strike her, a tengu, down.<br>And after his sword broke, these were her last words to him...",
+        "price": "6"
+    },
+    "Summer Night's Bloom": {
+        "name": "Summer Night's Bloom",
+        "_id": "a_23509",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Retracing Bolide",
+        "description": "A man-made flower in eternal bloom. Who knows if there truly is life in there?",
+        "story": "A summer festival flower that blooms forever,<br>That will not wilt even if buried deep below the snow.That will not wilt even if buried deep below the snow.<br>Some may label it an imitation, an false life,<br>For life lies in change, pain and growth,<br>In meetings, and also in partings.<br>But the memories of meeting her,<br>Of watching the fireworks bloom in the sky like fresh flowers together,<br>The memories of that foxy-eyed woman who eventually disappeared without a trace...<br>That unwithering flower is the final thing to remember her by.<br>In the end, the difference comes down to the fact that for some,<br>Life is as eternal as this undying summer bloom,<br>But for most, it is as transient as smoke.",
+        "price": "6"
+    },
+    "Summer Night's Finale": {
+        "name": "Summer Night's Finale",
+        "_id": "a_23507",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Retracing Bolide",
+        "description": "A well-crafted wooden dart. It will only stop once it has reached its destination.",
+        "story": "An intricately-made throwing dart. It is a common sight during the summer festival.<br>In the ghost stories of Inazuma,<br>There is a tale about a meeting between the human and inhuman...<br>To celebrate my wife's pregnancy, I went to the shrine to give a votive offering.<br>But for reasons unknown, I went up the mountain with these objects.<br>The water balloon from when I seven, the fox mask from when I was seventeen,<br>And a flower that would not wilt in ten or even a hundred years.<br>Why did I expect to meet her again?<br>No matchmaker introduced myself and my wife, and we were always short on money,<br>And it took some time for us to produce an heir,<br>But our days were still filled with happiness, were they not?<br>But still I detoured on that mountain road to the place where I'd seen the fireworks with her.<br>Pulling the bushes apart, I thought I saw her dressed in white, sitting upon that rock.<br>But when I came forward and looked, it was just a fox sunbathing.<br>It leaped up at the sound of snapping branches, and fled into the woods,<br>And like the spots of light that poke between leaves moved by the breeze, it was gone in a flash.<br>All that was left was an old wooden throwing dart.",
+        "price": "6"
+    },
+    "Summer Night's Moment": {
+        "name": "Summer Night's Moment",
+        "_id": "a_23510",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Retracing Bolide",
+        "description": "A pocketwatch that has stopped at a certain point in time.",
+        "story": "A small, ornate pocket watch.<br>The watch seems to have stopped at a certain time of day.<br>In the ghost stories of Inazuma,<br>This has something to do with an encounter with something inhuman...<br>On the night of the summer festival, as I walked the path to the shrine with the girl I admired,<br>I heard, only barely, the sound of a lost child's cries.<br>In that moment of distraction, I fell, spraining my ankle and breaking that pocket watch.<br>While she ran to look for some ointment,<br>I tried to make way for the people passing through,<br>And sat down on a rock by the wayside to rest.<br>The beautiful mask-wearing woman sat down beside me.<br>\"There are few who know about this spot.\"<br>\"But it's the best place to watch the fireworks, you know?\"<br>It should have been a dream.<br>We hadn't met in ten years,<br>And she had aged not a single day in those years, and yet...<br>\"You've grown so much. Looks like we should pass on the game of fusen.\"<br>\"I've brought wine, though. Let's watch the fireworks together. What do you say?\"",
+        "price": "6"
+    },
+    "Summer Night's Waterballoon": {
+        "name": "Summer Night's Waterballoon",
+        "_id": "a_23506",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Retracing Bolide",
+        "description": "Water balloons can be seen everywhere during the summer festival, but none are as finely-wrought as this one.",
+        "story": "A beautiful water balloon filled with water.<br>In the ghost stories of Inazuma,<br>This is a memento from a chance meeting with something inhuman...<br>During the summer festival, I was separated from my parents.<br>It was but a moment, but I had wanted to look at the water balloons,<br>And let go my hand that had gripped on to my father's sleeve.<br>Before we knew it, the tide of people escorting the divine palanquin had washed us apart.<br>I cried by the torii gates along the road to the shrine,<br>And I counted the feet of the people ascending the mountain.<br>I do not know when it happened,<br>But a beautiful lady with fox-like eyes had come to my side, and taken my hand.<br>\"How preposterous, to leave such an adorable child here.\"<br>\"So, how about it? Would you like to see the fireworks, throw some darts, and play fusen with me?\"",
+        "price": "6"
+    },
+    "Summer Night's Mask": {
+        "name": "Summer Night's Mask",
+        "_id": "a_23508",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Retracing Bolide",
+        "description": "A popular mask cast in the image of a deity, as described in the legends.",
+        "story": "The mask of one indwelt by a deity.<br>A mask that has been cast in the image of some legendary deity.<br>People will often take on the guise of the fox of legend,<br>Covering their faces with masks based on her divine visage,<br>Perhaps wishing that they might gain her ability of transformation.<br>In Inazuma's legends, everything has a spirit.<br>...But even so,<br>It is likely that most such beings would have long fled,<br>Driven into the forests by the suppression of the Shogun.<br>But many people still believe in these divine foxes and the ability to be indwelt by them...<br>They believe that thousands of years of age may confer power upon animals.<br>As such, they also believe in what this fox mask represents.<br>A note has been left on the back of this mask, written in a lovely hand.<br>\"I'm sorry, I departed under the cover of the fireworks.\"<br>\"We will most likely never meet again. Take care of yourself.\"",
+        "price": "6"
+    },
+    "Thundersoother's Heart": {
+        "name": "Thundersoother's Heart",
+        "_id": "a_23449",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Thundersoother",
+        "description": "A flower that blooms even amidst ferocious thunder and lightning. To this day, it still grants courage to travelers in thunderstorms.",
+        "story": "A purple flower plucked in a thunderstorm.<br>Whoever wears it will no longer fear the thunder and lightning.<br>This flower blossoms only in thunderstorms, and never withers despite the constant rain.<br>This is the Flower of Thunder. Kneeling before it, the Thundersoother plucked it with reverence.<br>The Thundersoother wore this flower on his chest at all times as he fearlessly faced the thunder and lightning.<br>Even when fighting the fierce Beast of Thunder, his resolve never wavered.<br>To the Thundersoother, wearing this purple flower may have been merely an act of whimsy,<br>but to travelers, the flower was the source of the unfaltering resolve that conquered the thunder.",
+        "price": "6"
+    },
+    "Thundersoother's Plume": {
+        "name": "Thundersoother's Plume",
+        "_id": "a_23447",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Thundersoother",
+        "description": "The feather of a predatory bird that soars through lightning storms. It was said to have been adopted as an insignia by the legendary hero who pacified thunder and lightning.",
+        "story": "An insignia made in the shape of the plume of a falcon that soared through the storms.<br>Its wearer can almost feel the booming of thunder and the heat of a volcano.<br>Fearing neither the thunder nor the volcano,<br>the falcon left its plume in the burnt woods.<br>The Thundersoother fashioned an amethyst insignia in the plume's likeness.<br>The purple insignia shimmered with light under the gaze of enemies.<br>On this small object lightning glittered,<br>as if to foreshadow the downfall of the Beast of Thunder.<br>Like the falcon, the Thundersoother conquered both thunder and flames,<br>and eventually beheaded the Beast of Thunder.",
+        "price": "6"
+    },
+    "Hour of Soothing Thunder": {
+        "name": "Hour of Soothing Thunder",
+        "_id": "a_23450",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Thundersoother",
+        "description": "A timepiece kept by the hero who conquered thunder and lightning. The tiny shards of Electro crystal within flow back and forth with the passing of time.",
+        "story": "An hourglass the Thundersoother once used. Flowing within it is not sand, but tiny Electro shards.<br>The shards shatter and flow down as time passes, then merge together at the bottom of the hourglass.<br>The Thundersoother who defeated the Beast of Thunder crafted this hourglass from amethyst.<br>The passage of time is just like lightning. It bursts through the sky and is gone in a flash.<br>Even the Thundersoother could not conquer the flash of time.<br>Within this hourglass, even thunder and lightning have to obey the never-changing law of time.<br>In the hourglass, the shards shatter and merge countless times while time silently flashes by.<br>Observing this taught the Thundersoother about the cycle of life and death. Empowered with this knowledge, he was able to defeat the beast.",
+        "price": "6"
+    },
+    "Thundersoother's Goblet": {
+        "name": "Thundersoother's Goblet",
+        "_id": "a_23446",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Thundersoother",
+        "description": "The wine goblet from which the Thundersoother, who defeated the Beast of Thunder, once drank violet lightning.",
+        "story": "A goblet that once belonged to the Thundersoother.<br>Perhaps its former owner once used it to drink the thunder.<br>Mighty as he was, the Thundersoother was a mere mortal with human feelings.<br>Rage and ecstasy would come and go in a flash, just like the pounding thunder.<br>This goblet witnessed not only the feats of the Thundersoother, but also his sorrow and laughter.<br>From this goblet was drunk the wine used in the sacrificial slaying of the Thundersoother's family.<br>From this goblet came the courage that helped the Thundersoother venture forth into the beast's cave.<br>From this goblet came the sole source of companionship for the Thundersoother, who spent his final days in solitude.",
+        "price": "6"
+    },
+    "Thundersoother's Diadem": {
+        "name": "Thundersoother's Diadem",
+        "_id": "a_23448",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Thundersoother",
+        "description": "The crown given to the Thundersoother for defeating the Beast of Thunder that had been wreaking havoc upon the land.",
+        "story": "A very ancient diadem.<br>It shines with the light of the pacified lightning.<br>The ferocious Beast of Thunder<br>once enslaved people with its mighty lightning.<br>But its lightning existed only in a flash,<br>and like the lightning, its mightiness soon disappeared.<br>The Thundersoother defeated the beast in a lightning storm.<br>He claimed this diadem as his trophy.<br>But the past can never be fully pacified.",
+        "price": "6"
+    },
+    "Lavawalker's Resolution": {
+        "name": "Lavawalker's Resolution",
+        "_id": "a_23439",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Lavawalker",
+        "description": "A flower that blooms amidst burning flames. It is said that long ago, a sage once wore it as he walked into a sea of fire.",
+        "story": "A flower that only blooms in the burning flames.<br>The searing pain it causes will make the wearer stronger.<br>The fiery-red flower shines like shimmering agate.<br>This flaming flower was once a brooch worn by the Lavawalker.<br>In the Lavawalker's final days, he said to his people:<br>\"This is the flower that blooms in flames. Until the day that the fires turn me into ashes,<br>You shall see the glowing embers of this flower shining through the dark smoke.\"<br>The people followed the flower's flickering light to the edge of the Mare Jivari.<br>There they found the blooming flowers &#8212; but the Lavawalker was nowhere to be seen.",
+        "price": "6"
+    },
+    "Lavawalker's Salvation": {
+        "name": "Lavawalker's Salvation",
+        "_id": "a_23437",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Lavawalker",
+        "description": "The feather of a proud phoenix. You can almost hear the sound of its wings flapping in the scorching flames.",
+        "story": "A feather plucked by the Lavawalker from a bird that sings amid the flames.<br>The wearer can almost hear the sound of the bird's wings flapping in the blaze.<br>Legend has it that there exists a kind of solitary bird that sings in the blazing flames.<br>People worshiped it as a totem while kings saw it as a sign of nobility.<br>Donning this feather, the Lavawalker retreated from the outside world.<br>Alone he came and alone he went, leaving no trace behind.<br>Since then, people often hear cries coming from the Mare Jivari.<br>No one knows if they are the song of the bird or the sighs of the Lavawalker.",
+        "price": "6"
+    },
+    "Lavawalker's Torment": {
+        "name": "Lavawalker's Torment",
+        "_id": "a_23440",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Lavawalker",
+        "description": "Burning sand flows within this hourglass. Despite the intense heat, the sand leave no mark upon the vessel that houses it.",
+        "story": "What flows within this hourglass is not regular sand, but burning sand.<br>Like this burning sand, time flows forward, leaving no trace of its own existence.<br>The story of the Lavawalker continued even after he had traveled across the Mare Jivari.<br>It is said that he spent another one hundred years living as a hermit.<br>But this short retreat brought little relief from his burning torment.<br>During his time as a secluded sage, the Lavawalker could not bear the eternal scorch. He crafted this hourglass to mark the passing of time.<br>As the flames blazed, burning sand flowed endlessly through the hourglass day after day.<br>Sadly, though the Lavawalker did not fear the scorching flames of the Mare Jivari, he could not quench the torturing flames of time.<br>The anguish of being left alone without the disciples and family he held so dear burned away at his soul more than any flames could ever scorch his flesh.",
+        "price": "6"
+    },
+    "Lavawalker's Epiphany": {
+        "name": "Lavawalker's Epiphany",
+        "_id": "a_23436",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Lavawalker",
+        "description": "A legendary goblet that can withstand extremely high temperatures. It still retains a degree of warmth even though it is now empty.",
+        "story": "A goblet that once contained lava. Now empty, it still has a slight hint of warmth.<br>This goblet once belonged to a sage known as the Lavawalker. Wisdom flowed from within.<br>The Lavawalker would toy with the goblet. Even in the blazing heat, it remained intact.<br>Legend has it that the Lavawalker would drink lava from this goblet as if it were a glass of fine wine.<br>But while fine wine evaporates in high heat, the wisdom of the sage could withstand a trial by fire.<br>To the Lavawalker, fine wine was merely a catalyst in the process of producing ingenuity.<br>Aided by alcohol, even the slightest spark can combust into a brilliant idea.<br>The goblet was a silent witness to the forging of wisdom amidst the flames.<br>The moment before the Lavawalker set off on his final journey was when the goblet was filled with the most pride.",
+        "price": "6"
+    },
+    "Lavawalker's Wisdom": {
+        "name": "Lavawalker's Wisdom",
+        "_id": "a_23438",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Lavawalker",
+        "description": "The circlet of a sage who traversed a sea of fire. It once shone brightly from their ancient silhouette as they stood strong amidst the flames.",
+        "story": "An ancient circlet that once belonged to the Lavawalker &#8212; a sage who wandered in the Mare Jivari.<br>Upon close examination, one can almost see his figure standing strong amidst the fiery flames.<br>The wandering sage of the Mare Jivari known as the Lavawalker crafted this circlet from crimson agate to resist the intense heat of the flames.<br>The circlet was built with wisdom and tenacity. It sparked fear and jealousy among peers and seniors alike.<br>\"How dare the Lavawalker challenge the flames of the Mare Jivari! Such blasphemy has not been seen in hundreds of years!<br>The flaming sea will surely devour this arrogant young man and the sky will blow his ashes into the void.\"<br>In his jealousy, the teacher demanded that his student step into the flaming sea wearing the circlet.<br>In a state of calmness, the Lavawalker strolled onto the lava and gradually disappeared into the horizon.",
+        "price": "6"
+    },
+    "Royal Flora": {
+        "name": "Royal Flora",
+        "_id": "a_23359",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Noblesse Oblige",
+        "description": "A satin flower with a glossy finish, fit for an elegant gathering. It still looks as distinguished as it did on the day it was cast aside.",
+        "story": "A blue lily made of silky satin<br>that once served as a noblewoman's headdress.<br>A noble who once ruled over Mondstadt left it behind.<br>In that legendary age, the nobles were examples for the people.<br>They guided their subjects with their conduct and wisdom.<br>They were the true representation of the people of Mondstadt.<br>They were noble not only in lineage,<br>but also in their commitment to virtues and principles.<br>The longevity of the nobles was cut short by their endless self-indulgence.<br>Ostentation gave way to devolution.",
+        "price": "6"
+    },
+    "Royal Plume": {
+        "name": "Royal Plume",
+        "_id": "a_23357",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Noblesse Oblige",
+        "description": "A feathered hat accessory worn by the old aristocrats of Mondstadt on hunts. It still stands proudly as if no time has passed.",
+        "story": "The feather of a falcon proudly perched on top of an old noble's hat.<br>Hunting with the common folk and sharing the spoils with them was an old tradition.<br>Commonplace were the hunts, a hobby of the ruling class of Mondstadt.<br>The festivities were shared with their servants and the common folk,<br>As a sign of the benevolence of the nobles.<br>All the people were eager participants in the festivities.<br>Hunts soon lost their meaning.<br>The nobles took everything as their own, presuming it their right.<br>Proudly the feather still stood, yet faded was its color in the people's eyes.",
+        "price": "6"
+    },
+    "Royal Pocket Watch": {
+        "name": "Royal Pocket Watch",
+        "_id": "a_23360",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Noblesse Oblige",
+        "description": "A pocket watch that once belonged to the old aristocrats of Mondstadt. Passed down from generation to generation, it has witnessed many years of history.",
+        "story": "An exquisite pocket watch made of sapphire.<br>It remains functional even after all these years.<br>The pocket watch of a noble who once ruled over Mondstadt. The time it tells is still accurate.<br>Punctuality is a virtue, and this pocket watch helped the nobles stay on a virtuous path.<br>It was more for self-discipline than a tool to influence the common folk.<br>At daybreak, a worthy noble must be more vigilant than his people.<br>At night, he should be more thoughtful and restless than they.<br>Over the years, the once-strict schedule was overturned by their indolent descendants.<br>Their timepieces grew more extravagant, but lost their virtuous function.",
+        "price": "6"
+    },
+    "Royal Silver Urn": {
+        "name": "Royal Silver Urn",
+        "_id": "a_23356",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Noblesse Oblige",
+        "description": "An ornamental urn that once belonged to the old aristocrats of Mondstadt. Mournful winds seem to echo within its empty interior.",
+        "story": "An ornamental urn made of sapphire, bearing the silver insignia of a noble house.<br>It is exquisite and elegant, a testament to the aesthetics of the ancient nobles of Mondstadt.<br>A noble who once ruled over Mondstadt left it behind.<br>However, the extravagant treasures that once lay inside are now gone.<br>These luxuries were symbols of the noble's stature,<br>as well as the confidence, pride, and prosperity of the people of Mondstadt.<br>Then, the nobles fell prey to power.<br>They took and they spent without regard for the people.<br>Luxurious accessories became vanity items.",
+        "price": "6"
+    },
+    "Royal Masque": {
+        "name": "Royal Masque",
+        "_id": "a_23358",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Noblesse Oblige",
+        "description": "A masquerade mask worn by the old aristocrats of Mondstadt. Its hollow eyes are fixated on the golden days of the past.",
+        "story": "A silver mask inlaid with gold and gems and engraved with delicate patterns.<br>Delicately made, it showcases the elegance and customs of the old nobles.<br>The first nobles who rose up to rule Mondstadt began as heroes of humble origins.<br>These great chieftains and elegant princes as well as beautiful princesses and noblemen<br>once welcomed the people to their banquets and feasts.<br>In those days long past, the nobles shared their wisdom and elegance generously.<br>In that golden age, the nobles shared with the people their knowledge and profits.<br>But the later nobles were seduced by power. Their banquets were exclusively for their own pleasure.",
+        "price": "6"
+    },
+    "Snowswept Memory": {
+        "name": "Snowswept Memory",
+        "_id": "a_23459",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Blizzard Strayer",
+        "description": "A long-extinct flower, covered in beads of frost, that once grew on the glaciers. There was a time when even the proudest and most arrogant warriors bowed before it.",
+        "story": "This is a flower of ever-frost, plucked by a pair of gentle hands.<br>It must have given a certain someone the strength to see winter as a warm embrace.<br>\"This fourth fresco is prepared for you. Your likeness will forever remain on this wall.\"<br>\"For the sake of that fresco, and for everyone's sake, I will wait for you, and pray for your return...\"<br>The maiden stood before a blank wall, and smiling, she pinned a small flower to the hero's breast.<br>That was an elegant and unruffled fellow, who would never bat an eyelid, not even in the face of death itself.<br>The heroism of the Icebreaker was forgotten, buried in the storms of the North.<br>Since then, the snow has melted &#8212; but this flower has not withered.",
+        "price": "6"
+    },
+    "Icebreaker's Resolve": {
+        "name": "Icebreaker's Resolve",
+        "_id": "a_23457",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Blizzard Strayer",
+        "description": "A feather that exudes a chilly aura. One can almost feel the turbulent winds that brought it here, wailing over snow-covered plains and between frosty peaks.",
+        "story": "A feather of a bird of prey that did not originally belong in the winter chill. It is cold to the touch.<br>And when you do touch it, it is as if you can hear cries in the snowstorm, unbowed but bereft of hope.<br>With no nest or shelter, the bird faced the storms proudly.<br>This feather has been assailed with coalescing ice and snow, leaving it coated in pearls of frost.<br>It once came from a falcon in flight and was plucked violently from that bird by the frigid winds.<br>It drifted a while in the air before the weight of the frost dragged it back down to the ground.<br>\"I believe that the lively birds will follow you, and return to the gardens of the summer palace, now green once more.\"<br>\"Those who have been chased away by the chilling tide, and those children who have lost their homes, they will return with you to the home of their dreams.\"<br>The hero, bearing such great burdens on his back, halted in the whipping snow, struggling to discern the color of that feather.<br>Sealed in ice, that feather's color faded every step of the way &#8212; just like the hero's task.",
+        "price": "6"
+    },
+    "Frozen Homeland's Demise": {
+        "name": "Frozen Homeland's Demise",
+        "_id": "a_23460",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Blizzard Strayer",
+        "description": "A timepiece from a nation of old that waited for their warriors' return. What flows inside is not sand, but bits of ice that never melt.",
+        "story": "An ancient hourglass with fine powdered snow flowing in it.<br>Even the coldest winter cannot freeze the flow of time.<br>\"The cold that descends from the sky can freeze time itself.\"<br>This myth was widely believed throughout the entombed mountain city.<br>As the hero reached the top of the wall of wind and ice, the night was descending and the snowstorm was howling.<br>Neither sun- nor moon-light could pierce this white wind easily.<br>Even the bleakest storm cannot freeze the river of time,<br>That will not wilt even if buried deep below the snow.<br>And even the most formidable hero will one day be forgotten.",
+        "price": "6"
+    },
+    "Frost-Weaved Dignity": {
+        "name": "Frost-Weaved Dignity",
+        "_id": "a_23456",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Blizzard Strayer",
+        "description": "A cup carved out of ice that is as chilly and biting as winter. Its former master would drink an unfreezable liquor from it.",
+        "story": "For the outlander who once searched for hope in midwinter on another's behalf,<br>Even the glass he drank from was carved out of ice.<br>Drinking bitter wine in this glass would feel like swallowing icicles that stung every inch of one's throat.<br>Ordinary people would struggle to enjoy this sensation &#8212; but the reticent hero relished it.<br>He was a warrior as silent as the ice itself, blocking the frigid winds that descended from the stars with his body.<br>But not content with merely being protected, the maiden who painted left the man she admired these last instructions:<br>\"If fear or despair, both of which are within our nature, should crush you, or cause you to never return, then...\"<br>\"...Then please, live on. Do not accompany us unto our doom &#8212; to languish forgotten in the snow.\"<br>Taking another swig of bitter wine to steel himself for the journey, he turned away from the maiden's wet eyes,<br>And he would set out on an unending pursuit, towards the land of snow and profundity.",
+        "price": "6"
+    },
+    "Broken Rime's Echo": {
+        "name": "Broken Rime's Echo",
+        "_id": "a_23458",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Blizzard Strayer",
+        "description": "The crown of an ancient hero who dreamt of conquering the cold. It is proof of its former master's bravery in facing the bone-chilling cold of winter.",
+        "story": "The hero set out on his journey, bearing the tiny hopes that the entombed city still had for salvation.<br>Donning his winter crown, he marched purposefully away, disappearing into the boundless snowstorm.<br>Bearing his agreement with the mountain city, bearing their clear-eyed gazes, the hero never once feared the unknown beyond the icy curtain.<br>The once-lush mountainside and the blessings that now no longer fell from the skies &#8212; these were the hero's motivation to carry on no matter what.<br>\"Past the ice-sealed door, walking down the corridors to the depths,\"<br>\"He will break off a branch of silver-white, and bring hope to the snowy land.\"<br>The maiden sang these songs to comfort her people, and she nursed her memories of him.<br>She believed that he would return to her, with genial springtime and unshakeable hope in his train.<br>But in the end, the hero who stepped out into the snow would not return in time.<br>He would stand accused of flight by hateful words long ground to dust amid the snowstorms...",
+        "price": "6"
+    },
+    "Gilded Corsage": {
+        "name": "Gilded Corsage",
+        "_id": "a_23539",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Heart of Depth",
+        "description": "A mantle brooch that has lost its luster. The gold plating that once adorned it was ground away by the wind and the waves long ago.",
+        "story": "A corsage whose coloration has been blistered away by the sea-salt wind.<br>Even a man who wanders the ocean waves,<br>Has items and memories that he prizes.<br>The great warship raised its anchor and headed out to sea, and the Chief Mate once more left harbor with the Skipper.<br>For the Skipper's absurd pursuit, and for his own faded memories,<br>The Chief Mate hummed a crappy shanty of his own composing, forming a chorus with the whales and the waves.<br>\"The scoundrel who gave up his family name and the witch who hunted him (never) reached the sea!\"<br>\"The wise step-brother who could not be an heir became head at last (or did he?)\"<br>\"Words that cannot be sung... Have I also forsaken the truth for illusions?\"<br>\"Having lost it all, and given it all up, and then sinking beneath the waves...\"<br>\"...Maybe this isn't the worst of endings, after all. Hahahahaha!\"",
+        "price": "6"
+    },
+    "Gust of Nostalgia": {
+        "name": "Gust of Nostalgia",
+        "_id": "a_23537",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Heart of Depth",
+        "description": "An ancient, wine-stained sea hat that still reeks of alcohol even now.",
+        "story": "A red feather is an ill omen, perhaps even a portent of death.<br>It washed ashore one day together with the corpse of a great sea creature.<br>The cynical Chief Mate was no native of Liyue. Rather, he came from a gray land ruled by an aristocracy.<br>All said that he, too, was once such a noble, but that he must have disgraced his house and been turned out as a result.<br>That was but baseless hearsay, however, for when he first came to the harbor, he carried naught but a slim sword,<br>And a small sapphire-blue feather pinned to his mantle.<br>Later, the wanderer would throw in with the Skipper and set out to sea, contending with great waves and sea creatures alike.<br>That once azure-blue feather would also be stained red by blood and by the salt of the great ocean.<br>In his last moment,<br>He clearly recalled those days now drowned in drink.<br>Like treasure in the sand brought to light by the lapping waves...",
+        "price": "6"
+    },
+    "Copper Compass": {
+        "name": "Copper Compass",
+        "_id": "a_23540",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Heart of Depth",
+        "description": "An ancient bronze compass. Its needle points towards some ever-distant shore, to a non-existent harbor.",
+        "story": "A bronze compass used by a seaman.<br>In an ever-tumultuous life of wandering,<br>It points toward the direction where its owner's heart lies.<br>The rough Skipper once used this compass to guide his huge ship,<br>Navigating treacherous ocean paths and conquering huge whirlpools.<br>It also guided the one whose deep hatred hid behind an uninhibited laugh,<br>And who, lost and despondent, sought death and burning drink...<br>\"I believe you all sing that the thief could not avoid the gallows in the end, eh?\"<br>\"As long as you have a place to belong to, even ending up in the belly of a fish would be alright&#8212;\"<br>\"Hey now, didn't you sign a contract with this ship when you came aboard?\"<br>\"That memory didn't get washed down with the wine, did it?\"<br>\"Good, then &#8212; after all, it is time to fulfill your contract.\"<br>\"Is that so? ...Well, alright. It doesn't matter anymore, anyway...\"",
+        "price": "6"
+    },
+    "Goblet of Thundering Deep": {
+        "name": "Goblet of Thundering Deep",
+        "_id": "a_23536",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Heart of Depth",
+        "description": "A faded wine cup that was unintentionally dredged up from the sea. Its dull exterior tells of the days it has spent beneath the waves.",
+        "story": "A faded, but finely-crafted wine cup,<br>Ground down by the sands in the sea's depths.<br>The exquisite cup fell from the Chief Mate's hand, raising tiny ripples as it hit the ocean surface.<br>What did it see amid the schools of fish in the dying light?<br>What had he encountered amidst the silent alleys, before the bars of the flower-inlaid windows of a secret tryst?<br>Down and down the dark gold cup sank, into the dreams of the sea monster, and into the dreams of the Chief Mate...<br>\"Someday, I will return the favor for this mark of humiliation that you left upon me.\"<br>The moonlight illuminated sapphire eyes and that striking scar.<br>In his memory, her countenance grew brighter, beautiful, cold and proud,<br>But he had forgotten what he had said then, and grew suddenly despondent as a result.<br>\"Come to think of it, how many times have I forgotten the past...\"<br>\"Ha, does it matter how you retell the past?\"<br>\"All deaths are in vain. There is no saving that which has already sunk.\"",
+        "price": "6"
+    },
+    "Wine-Stained Tricorne": {
+        "name": "Wine-Stained Tricorne",
+        "_id": "a_23538",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Heart of Depth",
+        "description": "An ancient, wine-stained sea hat that still reeks of alcohol even now.",
+        "story": "A tricorne hat thick with the smell of alcohol.<br>Its shape and design symbolize the position of its owner.<br>The hard-drinking Chief Mate was lost in a drunken reverie from morning till night, and was rarely ever sober.<br>He reeked of alcohol all over, mumbling often of tattered memories.<br>The jovial Skipper did not reprimand him, however, and indeed kept giving him important responsibilities.<br>\"Well, we are both people without a thing to our names, eh? Hahahaha!\"<br>\"The wine-sodden sea hat was thrust by a storm into the sky, and then carried away on the roiling waves.\"<br>\"Those fated to lose their homelands engage in battles bereft of hope and want.\"<br>\"That which they lost to the sea of memory, they sought to reclaim from the deep.\"<br>\"The wind and waves are correct. We have found it.\"<br>\"That giant creature that haunts and gnaws at me even in my dreams...\"<br>\"The time for vengeance has arrived. We set sail!\"",
+        "price": "6"
+    },
+    "Heart of Frost": {
+        "name": "Heart of Frost",
+        "_id": "a_23389",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Glacier and Snowfield",
+        "description": "A flower that has been frozen in time from the moment it was picked. The knight kept it as a memento forever after.",
+        "story": "This flower once bloomed in a foreign land, but its colors faded after it became encased in ice.<br>It was frozen when picked, serving as an eternal memento for the Knight of Boreas.<br>The Knight of Boreas had a heart of firm iron and a body hardened like the glaciers of the North.<br>Wolves befriended him and the North Wind accompanied him.<br>Yet few knew he belonged not to the heartless snowscape of the North.<br>His true home was filled with never-withering flowers and never-frozen rivers.<br>But he left his homeland. For he had a ranger's boundless spirit, which conflicted with the sages' narrow idealism.<br>The flower he picked became his loyal companion through countless winters.",
+        "price": "6"
+    },
+    "Plume of Snow": {
+        "name": "Plume of Snow",
+        "_id": "a_23387",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Glacier and Snowfield",
+        "description": "A bird feather that was picked up by the knight who walked with the North Wind in the snow. It still awaits the day when it will thaw.",
+        "story": "The feather of a bird that had never experienced the brisk winter is now frozen in ice.<br>The memory of the knight this feather carries will eventually fade, just as the ice will thaw.<br>The knight wandered along with the North Wind.<br>As feared as he was respected, he became known as the Knight of Boreas.<br>When the Knight of Boreas noticed the whispered complaints of the people, he would set off on another journey.<br>Perhaps the day would come when the winter ended. Sometimes, the Knight of Boreas mused aloud to the North Wind:<br>\"A day may come when&#8212;\"<br>But the moment he spoke, his words would be frozen by the howling wind.<br>\"...when I can be in the land of spring, where flowers cover the earth and birds migrate homeward.\"<br>Walking with the North Wind, the Knight of Boreas had always been waiting for the spring buried deep in his memory.<br>Smiling wryly as he inspected the frozen feather, he wondered if the bird it came from shared his fate: lost in transit, with nowhere to call home.",
+        "price": "6"
+    },
+    "Glacial Sand": {
+        "name": "Glacial Sand",
+        "_id": "a_23390",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Glacier and Snowfield",
+        "description": "A timepiece once used by the knight who walked with the North Wind. A never-ending snowstorm rages within.",
+        "story": "An hourglass of ice.<br>Eternal winds, not sands, flow inside.<br>The Knight of Boreas walked with the North Wind, his armor covered in frost.<br>On his endless journey, the cold winters were gifts scattered around the land.<br>Solidified frost obstructed his movements in combat amidst storms.<br>When the Knight of Boreas rested, hopes of brief respite were dashed as he saw the ice on his armor only grew thicker while stationary.<br>The knight had long forgotten his days as a wanderer.<br>The eternal icy winds had long since frozen time.",
+        "price": "6"
+    },
+    "Goblet of Aquilo": {
+        "name": "Goblet of Aquilo",
+        "_id": "a_23386",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Glacier and Snowfield",
+        "description": "A goblet of eonothem left behind by the knight who walked with the North Wind. The chill of the bitter winter frost still lingers within.",
+        "story": "A ritual goblet forged of ice.<br>It holds not wine, but the hollering wind.<br>The howling wind of the North was like a ferocious wolf pursuing the knight along his path.<br>A normal traveler would have been devoured by the frosty wind.<br>But he was not a normal traveler.<br>In the storm, the knight raised the goblet filled with frosty wind and proposed a toast to his howling travel partner.<br>Together they drank, the bitter wind serving as their wine. The knight and the North Wind became friends.",
+        "price": "6"
+    },
+    "Crown of Glacier": {
+        "name": "Crown of Glacier",
+        "_id": "a_23388",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Glacier and Snowfield",
+        "description": "The crown worn by the knight who walked with the North Wind. It was forged using winter ice and silver.",
+        "story": "A crown made of ice and silver,<br>oblivious to the spring of the North.<br>Along with the North Wind, the Knight of Boreas traveled through raging storms.<br>The Knight of Boreas fought with monsters on the icy plains of the North.<br>He traveled alone now, for the unrelenting blizzard had buried every last one of his companions in the snow.<br>The merciless wind itself had become his one faithful travel companion.<br>The hearts of those who look into the abyss shall be engulfed by the abyss,<br>and the souls of those who fall into the glaciers shall become trapped in the glaciers.",
+        "price": "6"
+    },
+    "Entangling Bloom": {
+        "name": "Entangling Bloom",
+        "_id": "a_23569",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Shimenawa's Reminiscence",
+        "description": "A lovely amulet made from twisted paper cord. It is said to hold the power to make wishes come true.",
+        "story": "An omamori crafted using an art known as Mizuhiki.<br>It is said to have the power to bind wishes and the reasons for those wishes within itself.<br>Once, I learned how to manage the affairs of the shrine under the tutelage of a mighty kitsune.<br>Back then, I was just a young shrine maiden who had just arrived on Narukami from a small fishing village.<br>I was duller than a teapot and had yet to lose the obstinate impulsiveness and curiosity of a child,<br>I was always naively skeptical of the elegant but incomprehensible words of Lady Saiguu.<br>\"Everything in the world is entangled. Hence, illusory visions were born out of concrete reality.\"<br>\"The so-called omamori cannot make one's wishes come true at all, but they can make them eternal through this entanglement.\"<br>The Lady Kitsune couldn't help but break out into laughter upon seeing my clueless expression.<br>She cheerfully knocked my head with her pipe and sneakily changed the subject.<br>\"I suppose you've met your fated one as well, Hibiki?\"<br>\"What sort of 'fate' could there be with a rude and reckless brute like that!\"<br>\"Oh, is that so?\"<br>But darkness engulfed everything in the end.<br>That \"fate,\" too, was no more.",
+        "price": "6"
+    },
+    "Shaft of Remembrance": {
+        "name": "Shaft of Remembrance",
+        "_id": "a_23567",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Shimenawa's Reminiscence",
+        "description": "A demon-slaying arrow of a rather ancient make. It seems to have been preserved with great care by someone, even until the present day.",
+        "story": "A demon-slaying arrow used by the shrine for prayers and to drive away catastrophes,<br>It is said to be capable of pursuing and destroying all demons.<br>People often say that demon-slaying arrows can drive away evil, but evil is never an objective thing.<br>Evil often stems from within our hearts, born out of delirious minds that have turned cold and ashen from terror.<br>Lady Saiguu has been gone for a long time now, and I am no longer that young shrine maiden training at the Grand Narukami Shrine.<br>Whenever I hold that empty smoking pipe, I can feel that emptiness and dull pain hover over me like a phantom.<br>Having someone worth missing, losing someone whom I cannot help missing... And time keeps moving like a spinning wheel.<br>Silent and tranquil, the Lady Kitsune's white form hidden in the deep darkness left a deep impression in the shrine maiden's dreams.<br>The Great Tengu went into self-imposed exile, enraged at her own incompetence as the Lady Saiguu's protector, leaving Teruyo behind.<br>Harunosuke left for another country amid the fury of his mourning, while Nagamasa joined the Shogunate to clear the Mikoshi name.<br>As for the man who taught me archery in the sacred forest and patiently listened to my na&#239;ve promise under the scarlet sakura boughs,<br>He will eventually return to me, even if he were to be blinded by splattered blood, or turned into a fierce beast by that dark defilement...<br>I shall save him with our bow and arrows, to keep our promise, which ever veers towards breaking.<br>I shall destroy evil with our bow and arrows, exorcising folly and needless obsession.<br>\"Come see me, you idiotic problem gambler.\"<br>\"And don't lose your way this time, Konbumaru.\"<br>Still, who won the last throw of the dice...<br>She touched the bow lightly while pondering such unimportant things.",
+        "price": "6"
+    },
+    "Morning Dew's Moment": {
+        "name": "Morning Dew's Moment",
+        "_id": "a_23570",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Shimenawa's Reminiscence",
+        "description": "A bronze pocket watch adorned with twisted paper cord and a bell. Its hands are forever frozen at the dawn of a certain autumn day.",
+        "story": "An elegant watch adorned with a shrine bell.<br>The hands always point toward the wee hours of the morning.<br>As the sky brightens, morning dew condenses and then disappears.<br>As beautiful as this colorful scenery may be, it is still short-lived.<br>I once enjoyed the chirping of cicadas and the moonlight with Lady Saiguu on a slope in the middle of an autumn night.<br>Back then, I was just a shrine maiden from the country, young and stubborn.<br>Like a chirping finch, noisily insisting on my own view.<br>A faint smile that crossed the mouth of the Lady Kitsune fascinated me, but her words were &#8212; and remain &#8212; incomprehensible:<br>\"Trying to hold on to a moment's beauty is like foolishly trying to grasp the morning dew.\"<br>\"Like the morning dew, I have already passed away. All you have seen of me is but a residual vision, born of your wishes.\"<br>In that vague memory, she kept saying some incomprehensible things. Her expression as sorrowful as the eighth month's moon, and I suddenly...<br>Then she rapped me over the head with her tobacco pipe, wearing her usual expression of rebuke and mockery:<br>\"Hibiki, the sun's about to rise.\"<br>\"We should head back.\"",
+        "price": "6"
+    },
+    "Hopeful Heart": {
+        "name": "Hopeful Heart",
+        "_id": "a_23566",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Shimenawa's Reminiscence",
+        "description": "A special fortune-telling cylindrical object. The mechanism at the bottom allows one to easily remove all unwanted wish sticks.",
+        "story": "A special slip cylinder that the shrine uses for fortune-telling,<br>It is supposedly infused with good fortune that the kitsune have imparted upon it.<br>Fortune telling is born from the questions of lost people. Thus, be it good or bad fortune, it will help them navigate their future.<br>In other words, there are only lost people, and no inaccurate fortunes.<br>I've learned a lot while studying at the shrine. Now, even someone as dull-witted as I am has learned how to talk like a mighty kitsune.<br>During this time, even someone as inhuman as the mighty Yougou Tengu has gotten a daughter.<br>Even that leatherhead Konbumaru has also become one of the Shogun's own Hatamoto, and shall soon marry the daughter of a high-ranking samurai.<br>\"Such a lovely kid. Even the great Yougou Tengu, who used to kill all day for fun, had the mother inside her brought out... just a little.\"<br>\"Still... the shrine is always missing the liveliness of children. That's not good. Say, Hibiki, how would you like to be a kid again?\"<br>The Lady Kitsune's joke was out of line as always, coming forth with the self-serving scent of sakura wine.<br>\"Aw, Hibiki, why the long face? How about this, then? I, the Lady Saiguu, shall tell your fortune for you!\"<br>\"Haha, see? See, it's \"Great Fortune.\" \"Great Fortune\"! You know what that means?\"<br>\"It means that you took away all the bad fortune slips. Please stop mocking me, Lady Saiguu.\"<br>\"No... it means that the person you're missing will be lucky enough to become a part of your memories forever.\"<br>That's why you have to be strong and must live on for a long, long time.<br>Even if all the people you cherish are gone, as long as you are still alive,<br>The time you spent with them will never perish...",
+        "price": "6"
+    },
+    "Capricious Visage": {
+        "name": "Capricious Visage",
+        "_id": "a_23568",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Shimenawa's Reminiscence",
+        "description": "A well-preserved ceremonial fox mask. A small, enigmatic smile ever graces its lips.",
+        "story": "A bright and elegant festival mask that once belonged to a certain miko.<br>A faint smile curls the edges of the mask's lips, but there is no real light in its eyes.<br>I've spent much time training at the Grand Shrine, and I must say that I've matured a lot.<br>At the very least, I'm not as foolish as I was when I was young, and I'm more independent now.<br>But for some reason, the more I grow, the more Lady Saiguu's face seems to fall under a shadow.<br>What emerges on her face is not anxiety nor fear, but rather a sorrowful reluctance...<br>\"Life is full of uncertainty. Love is fleeting, and even lasting memories may be lost.\"<br>\"Losing one's memory is no different from losing one's life. It is like death amidst darkness eternal.\"<br>This time, even a faint smile could not conceal her sorrow.<br>Though this is a festive day, it seems more like a farewell.<br>\"Right, then. Why don't you tell me about the idiot Konbumaru?\"<br>\"What's wrong? Still afraid that an old hag like me will steal him from you?\"",
+        "price": "6"
+    },
+    "Bloodstained Flower of Iron": {
+        "name": "Bloodstained Flower of Iron",
+        "_id": "a_23349",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Bloodstained Chivalry",
+        "description": "A dried flower stained black with blood and now as hard as steel. Probably some sort of a memento for its former master.",
+        "story": "A common white flower given to the knight by a rescued damsel.<br>It is dried and hardened by the blood from all his bloodshed.<br>Thanking him for his valor, the damsel offered a reward.<br>He turned down all she gave, save for a pure white flower.<br>\"For a knight, chivalry is its own reward.\"<br>\"This flower shall be my medal. That is all I need.\"<br>He wore the flower upon his heart.<br>Like his armor, it was stained as black as a winter's night.<br>Like his heart, it was hardened like a tempered blade.",
+        "price": "6"
+    },
+    "Bloodstained Black Plume": {
+        "name": "Bloodstained Black Plume",
+        "_id": "a_23347",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Bloodstained Chivalry",
+        "description": "A raven feather pinned to a knight's cape. Countless bloodstains have dyed it pitch black.",
+        "story": "One of the countless raven feathers stuck to the Bloodstained Knight.<br>For where there is blood, ravens shall follow.<br>In the end the Bloodstained Knight could no longer tell<br>whether the blood that stained him was his own or that of his enemies.<br>Eventually, on his long journey filled with bloodshed, he came to a realization:<br>His path of so-called chivalry had turned him from the white knight he used to be into the monster he had now become.<br>His only followers were the ravens drawn to the bloodshed he left in his wake.",
+        "price": "6"
+    },
+    "Bloodstained Final Hour": {
+        "name": "Bloodstained Final Hour",
+        "_id": "a_23350",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Bloodstained Chivalry",
+        "description": "A timepiece once used by a knight. The liquid inside has dried up, rendering it useless.",
+        "story": "Deep in the abyss, where celestial bodies cast no light,<br>the Bloodstained Knight kept this timepiece, though time had lost all meaning.<br>At an end was the Bloodstained Knight's story,<br>for he realized there was no place for him on this earth.<br>He ventured into the fallen ancient kingdom, and died in battle in the monsters' lair.<br>At the bottom of the world, he learned the origin of the monsters that destroyed the ancient kingdom.<br>\"The ancient kingdom was wrongfully cursed,\"<br>\"Turning its inhabitants into monsters.\"<br>\"The code of chivalry tolerates not such injustice.\"<br>\"If Abyss be thy name, I pledge to you my loyalty.\"",
+        "price": "6"
+    },
+    "Bloodstained Chevalier's Goblet": {
+        "name": "Bloodstained Chevalier's Goblet",
+        "_id": "a_23346",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Bloodstained Chivalry",
+        "description": "The dark metallic vessel owned by the Bloodstained Knight. Its exterior has been stained as black as the night by smoke and coagulated blood.",
+        "story": "Originally an exquisite silver goblet with gold engravings depicting the feats of a chivalrous knight.<br>But blood and smoke have stained the cup beyond recognition.<br>Covered in blood, the knight who slayed demons returned from the scourged battlefield,<br>Only to find that those awaiting his rescue were nowhere to be found among the burning, collapsed houses.<br>Defeated, the Bloodstained Knight took the smoke-blackened goblet,<br>and vowed to rid the world of monsters, of poverty and of evil.",
+        "price": "6"
+    },
+    "Bloodstained Iron Mask": {
+        "name": "Bloodstained Iron Mask",
+        "_id": "a_23348",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Bloodstained Chivalry",
+        "description": "The iron mask the knight used to conceal their identity. Many have speculated about the face behind the mask.",
+        "story": "A luxurious platinum mask that once belonged to a knight of noble birth.<br>The dark stains of dry blood are now a permanent part of its appearance.<br>As the Bloodstained Knight reached out to help a person in need after slaying the monster,<br>The way she cowered in fear made the knight realize:<br>He was now a monster himself.<br>Tainted by the blood and cruelty of his drawn-out war.<br>\"Shield me from the eyes\"<br>\"Of those I vowed to protect.\"<br>\"And shield them from the horrors I am bound to effect.\"",
+        "price": "6"
+    },
+    "Gladiator's Nostalgia": {
+        "name": "Gladiator's Nostalgia",
+        "_id": "a_23419",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Gladiator's Finale",
+        "description": "No one knows why the legendary gladiator wore this flower on his chest. It was the brutal warrior's only weakness.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Gladiator's Destiny": {
+        "name": "Gladiator's Destiny",
+        "_id": "a_23417",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Gladiator's Finale",
+        "description": "A feather of dreams that soars free like an eagle. At the end of the gladiator's legendary life, this parting gift was left upon his chest by a bird that knew true freedom.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Gladiator's Longing": {
+        "name": "Gladiator's Longing",
+        "_id": "a_23420",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Gladiator's Finale",
+        "description": "A timepiece that recorded the gladiator's days in the bloodstained Colosseum. To him, it counted down the days on his long road to freedom.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Gladiator's Intoxication": {
+        "name": "Gladiator's Intoxication",
+        "_id": "a_23416",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Gladiator's Finale",
+        "description": "The golden cup a champion gladiator drank from in ancient times. It brimmed with his glory for years until the fateful day of his fall.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Gladiator's Triumphus": {
+        "name": "Gladiator's Triumphus",
+        "_id": "a_23418",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Gladiator's Finale",
+        "description": "The helmet of a legendary gladiator from ancient times, who would proudly stretch out his bloodied arms to welcome the thunderous applause of his audience.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Troupe's Dawnlight": {
+        "name": "Troupe's Dawnlight",
+        "_id": "a_23399",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Wanderer's Troupe",
+        "description": "A small flower-shaped insignia. If you listen carefully, you can almost hear a flute playing and voices singing.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Bard's Arrow Feather": {
+        "name": "Bard's Arrow Feather",
+        "_id": "a_23397",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Wanderer's Troupe",
+        "description": "An azure arrow fletching that has neither faded nor splintered with the passage of time. The sound of running water seems to linger around it.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Concert's Final Hour": {
+        "name": "Concert's Final Hour",
+        "_id": "a_23400",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Wanderer's Troupe",
+        "description": "An hourglass used to keep time during a band performance. It once made a crisp sound, but their performance has since ended.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Wanderer's String-Kettle": {
+        "name": "Wanderer's String-Kettle",
+        "_id": "a_23396",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Wanderer's Troupe",
+        "description": "An ancient, strangely-shaped canteen. The interior is fitted with harp strings, which play a wondrous tune as the water flows out.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Conductor's Top Hat": {
+        "name": "Conductor's Top Hat",
+        "_id": "a_23398",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Wanderer's Troupe",
+        "description": "A top hat that has managed to retain its radiance despite braving the elements for time untold. An ancient tune still resonates within.",
+        "story": " Electro Hypostasis<br>Lv 40+<br> Anemo Hypostasis<br>Lv 40+<br> Geo Hypostasis<br>Lv 40+<br> Hydro Hypostasis<br>Lv 40+<br> Cryo Hypostasis<br>Lv 40+<br> Pyro Hypostasis<br>Lv 40+<br> Oceanid<br>Lv 40+<br> Thunder Manifestation<br>Lv 40+<br> Golden Wolflord<br>Lv 40+<br> Perpetual Mechanical Array<br>Lv 40+<br> Maguu Kenki<br>Lv 40+<br> Cryo Regisvine<br>Lv 40+<br> Pyro Regisvine<br>Lv 40+<br> Primo Geovishap<br>Lv 40+<br> Stormterror<br>Lv 40+<br> Lupus Boreas, Dominator of Wolves<br>Lv 40+<br> Childe<br>Lv 40+<br> Azhdaha<br>Lv 40+<br> La Signora<br>Lv 40+",
+        "price": "6"
+    },
+    "Stainless Bloom": {
+        "name": "Stainless Bloom",
+        "_id": "a_23559",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Pale Flame",
+        "description": "A hard, blue artificial flower. Its petals shall never wither, nor shall its colors fade.",
+        "story": "\"You astound me. You have but a human body, and yet you carry such a power within you.\"<br>\"You claim that you have no tears left to cry, no blood left to shed, but surely this is because you have filled yourself with fire...\"<br>\"Though your body has long been covered in scars, fierce flames are all that now may flow, like molten iron, from your eyes and your wounds.\"<br>\"But we appear to have gotten off-topic. I followed the trail of smoke and tracked you down because I wish to strike a deal with you...\"<br>\"Let the flames that now devour you be extinguished by the grace of Her Majesty. What say you?\"<br>The first Fatuus gave power to a young woman in whom the flame of life had all but died,<br>And in her wild imagination, she saw the line that lay between the corrupt past and a stainless future...<br>\"I understand. Then, let glacial ice take the place of my erased past and extinguish these undying flames.\"<br>\"Let the darkness of corruption, the pain of the world, and the humans, beasts, and the sin they carry all be purified by silent ice.\"<br>But despite this, a pure white flame continued to burn within her heart...<br>\"We share the same goal, you, your Tsaritsa, and I.\"<br>\"Cleanse the sources of distortion in this world: short-sighted, ignorant gods and the darkness and corruption of the Abyss.\"<br>\"Good. I will do whatever it takes to become an effective instrument in the advancement of our common cause.\"<br>\"For even if I dress in pure white from head to toe, the ashes of the dead that have long left their stain on every inch of my being can never be cleansed.\"",
+        "price": "6"
+    },
+    "Wise Doctor's Pinion": {
+        "name": "Wise Doctor's Pinion",
+        "_id": "a_23557",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Pale Flame",
+        "description": "An ominous pinion with edges of unsurpassed keenness. Perhaps it represents an unnaturally uninhibited nature.",
+        "story": "\"A human is nothing more than a machine of a certain level of complexity.\"<br>Thus declared the youth from his lectern in the seedbed of wisdom.<br>If one were to disassemble a part of this machine and make enhancements to it,<br>Its performance could be greatly amplified.<br>With or without a Vision, and irrespective of their physique or combat skills,<br>\"Enhanced humans\" would surely display strength far beyond the average.<br>Despite the risk of being denounced as a heretic and permanently cast from the circle of the wise,<br>The youth candidly jotted down these thoughts in the margins of his research notes:<br>I. As anticipated, no research breakthroughs are possible, given the working style of the Academia.<br>II. Nevertheless, being expelled would be a loss. One needs an environment conducive to research.<br>Following a trail of rumors of heresy, the first of the Fatui tracked him down...<br>\"Merely an enhanced human? If your great nation can furnish me with sufficient resources and ample time, I could even manufacture that which you would call a god. What say you?\"<br>In the desert that shone bright like liquid gold, he inquired of the Snezhnayan diplomat:<br>\"Will you treat me like the Academia did? Will you call me a monster, a madman?\"<br>\"Or will you treat me as my hometown did, and chase me away with pitchforks and clubs...?\"<br>However...<br>\"Good. Then, we are now in partnership.\"<br>\"As for the matter of your title &#8212; what do you say to this...\"<br>Taken completely by surprise by the sheer irony of the title he was given, the young man burst into hysterical laughter.",
+        "price": "6"
+    },
+    "Moment of Cessation": {
+        "name": "Moment of Cessation",
+        "_id": "a_23560",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Pale Flame",
+        "description": "A pocket watch with a cover that cannot be opened. Yet it ticks and tocks away, following the inexorable flow of time.",
+        "story": "Money is the lifeblood of the world, and the pathways along which it flows are the world's arteries.<br>Then, the center of the world is a heart made of gold.<br>He was not one of the favored, and could only pursue worldly power.<br>But though money ought to mean nothing to the gods,<br>They held it firmly within their grasp nonetheless, along with the countless other forms of power that they wielded.<br>Perhaps he lusted for money because he had once been destitute,<br>Or perhaps the fact that the gods had never looked upon him with favor ignited a burning desire for resistance inside him...<br>\"The people of the land from which these coins hail revere contracts above all else.\"<br>\"In the name of money, I shall respect the contract between us...\"<br>\"We shall, by whatever means necessary, become the heart that pumps money around the world.\"<br>\"And, when the moment comes, that heart shall cease beating by our will alone.\"",
+        "price": "6"
+    },
+    "Surpassing Cup": {
+        "name": "Surpassing Cup",
+        "_id": "a_23556",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Pale Flame",
+        "description": "An intricately-made cup. Its appearance betrays nothing of its age to an observer.",
+        "story": "He was born with a face fairer than any other,<br>Destined to a long life and a hollow will.<br>He was a transcendent being, divinely created, but he was cast aside like worthless dross.<br>Yet, due to an error that cannot be known, he roused himself from slumber,<br>And began to wander the mortal realm.<br>Before the Fatui found him, he had drifted for countless years<br>And in that time, this is what his experience had taught him:<br>\"I am a 'human' who surpasses all others.\"<br>\"Even the gods daren't meddle in my fate.\"<br>\"Neither mortal nor god, nor fate itself, is qualified to be my judge.\"<br>\"I am free to choose how I wish to spend the remainder of my days.\"<br>\"Since these mask-wearing people are so fun to be around...\"<br>\"I think I'll become one of them.\"",
+        "price": "6"
+    },
+    "Mocking Mask": {
+        "name": "Mocking Mask",
+        "_id": "a_23558",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Pale Flame",
+        "description": "A mask that covers the face, hiding one's expression from others.",
+        "story": "Since the stain of my compatriots' blood cannot be cleansed, I shall become The Jester, who laughs in the face of fate.<br>Since my level of learning could not compare with the sages, I failed to earn the favor of the previous ruler.<br>So too did I fail to stop them from tearing away the veil of sin, ushering in a tide of divine wrath, destruction, and foolishness...<br>Then I shall become instead a fool, a Fatuus, and devote myself to Her Majesty, who understands my pain...<br>My name is Pierro, The Jester. Please listen to the words I have to say:<br>Proud Fatui comrades, I know your hearts harbor both the fires of rage and the cold of eternal winter.<br>Each one of us has borne witness to the absurd callousness of the foundational principles of this world.<br>So, let us don our masks in mockery of the world as we go forth and rewrite the rules of destiny.",
+        "price": "6"
+    },
+    "Thunderbird's Mercy": {
+        "name": "Thunderbird's Mercy",
+        "_id": "a_23379",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Thundering Fury",
+        "description": "A lightning-infused flower, somehow spared the fate of being trodden underfoot or reduced to ash by the furious purple fire, making it the sole survivor on the day of disaster.",
+        "story": "A purple wild flower that survived in the volcanic ash.<br>It witnessed the total decimation of the ancient tribe.<br>With an innocent's blood, the shaman summoned the Thunderbird.<br>They made their offerings, waiting for the Thunderbird to reveal and the oracles.<br>However, what descended with the Thunderbird, was the lightning of destruction.<br>For the transgression against the young lad who sang to it, the sentence was total obliteration.<br>The Thunderbird showed its true nature, wiping the tribe from the face of the earth.",
+        "price": "6"
+    },
+    "Survivor of Catastrophe": {
+        "name": "Survivor of Catastrophe",
+        "_id": "a_23377",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Thundering Fury",
+        "description": "A lightning-charged feather that still flickers with the wrath of the Thunderbird's cruel retribution.",
+        "story": "The lost feather of the Thunderbird enchanted in purple lightning.<br>It serves as the last witness of the destruction of the tribe.<br>The ancient tribe held the Thunderbird as its protector. But it rained down thunder upon the tribe.<br>On one gloomy night, it shared a pure friendship with the lad.<br>Once it departed, the lad picked up the feather it dropped.<br>\"I shall sing you another tune,<br>When you come again with thunder and rain.\"<br>Driven to madness by the remorse of a promise unkept,<br>The Thunderbird left the mountain in cinders.<br>It was hunted down years after, slain as a monster.<br>Years passed, the burned land revitalized.<br>The lightning-feather was left buried in the vegetation.<br>The story of the Thunderbird and the young lad all but perished with the tribe.",
+        "price": "6"
+    },
+    "Hourglass of Thunder": {
+        "name": "Hourglass of Thunder",
+        "_id": "a_23380",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Thundering Fury",
+        "description": "The hourglass used to foretell the coming of the Thunderbird by the tribe that worshiped it. It has fallen into eternal silence now that the tribe is no more.",
+        "story": "A luxurious hourglass belonging to the ancient tribe that worshiped the Thunderbird.<br>As the tribe faded away, so did the hourglass.<br>A luxurious hourglass, made with amethyst and amber gold, that belonged to a shaman.<br>The hourglass would serve its purpose for the festival held in the Thunderbird's honor.<br>In the last festival the tribe held, the frenzied Thunderbird blew away the bloodstained altar.<br>The countdown to the arrival of the protector became the countdown to the tribe's destruction.<br>The Thunderbird decimated the tribe to avenge the one who sang to it.<br>Unbeknownst to the Thunderbird, the lad himself considered his sacrifice as an offering.<br>All for the good of the tribe, for the blessings of the Thunderbird.",
+        "price": "6"
+    },
+    "Omen of Thunderstorm": {
+        "name": "Omen of Thunderstorm",
+        "_id": "a_23376",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Thundering Fury",
+        "description": "A ceremonial cup that holds the blood of the innocent. It is brimming with the thundering fury of the prayers that echo within.",
+        "story": "A ritual goblet used by the shamans of an ancient tribe.<br>It held the blood to be offered to the Thunderbird.<br>In the seasons when the Thunderbird flew amidst the stormy mountains, a young lad sang without fear.<br>Attracted to his voice, the prideful Thunderbird landed by his side.<br>\"Curious tunes, tiny human. Afraid not of thunder and storms?<br>\"They said I can bring peace to thunder and storms.\"<br>The young lad paused and answered.<br>The Thunderbird cried but kept its silence.<br>For his was an enchanting song.<br>It was the first and last meeting between the Thunderbird and the young boy.<br>For the next she saw of the boy was when his blood filled the golden goblet on the sacrificial altar.",
+        "price": "6"
+    },
+    "Thunder Summoner's Crown": {
+        "name": "Thunder Summoner's Crown",
+        "_id": "a_23378",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Thundering Fury",
+        "description": "A crown once worn by an ancient shaman who worshiped the Thunderbird. The capricious beast remained unmoved by the shaman's devotion.",
+        "story": "In the ancient tribe that worshiped the Thunderbird,<br>elder shamans worn this crown.<br>The Thunderbird soared through the thunderstorms, raining down purple thunder and rain.<br>Ancient tribes feared its powers and thanked it for its blessings.<br>Shamans were chosen to offer blood sacrifices to it for protection and forgiveness.<br>The Thunderbird was still a monster that cared not for the worship of mankind.<br>They knew it not, and regarded the unpredictable actions of the Thunderbird as divine revelations.<br>Yet thunder was its breath, as were the fates of men.<br>From the sky, men were no different from animals.<br>Until one day a song pierced through the roaring thunderstorm.<br>The song ripped through the clouds, and bestowed upon it, light.",
+        "price": "6"
+    },
+    "In Remembrance of Viridescent Fields": {
+        "name": "In Remembrance of Viridescent Fields",
+        "_id": "a_23409",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Viridescent Venerer",
+        "description": "A wondrous instrument that a hunter once wore. It forever points towards their prey.",
+        "story": "A white wild flower that used to cover the earth.<br>It has not withered one bit, and still gives off an exquisite fragrance.<br>In the days when wildlife still roamed the earth and monsters had not yet appeared,<br>the Viridescent Venerer would use this flower to conceal her human scent.<br>Thus it was said that to seek the silent and gentle Viridescent Venerer,<br>one simply need to close one's eyes and walk barefoot through the forest, following the subtle fragrance of wild flowers.<br>Only those who could tread as softly as a hunter could avoid making the leaves crackle underfoot, alerting the queen of hunters to their presence.<br>It was also said that the one who eventually found the hunter was a boy.<br>At that time, disaster had just befallen the ancient kingdom and misery was spreading across the land.",
+        "price": "6"
+    },
+    "Viridescent Arrow Feather": {
+        "name": "Viridescent Arrow Feather",
+        "_id": "a_23407",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Viridescent Venerer",
+        "description": "The fletching of an arrow that once pierced right through its prey, but somehow still remains spotless.",
+        "story": "A glossy and shining feather of a falcon. It once served as a fine fletching on one of the Viridescent Venerer's arrows.<br>In the past, when the Viridescent Venerer's arrow hit its target,<br>she would come down and stroke the fur of her prey gently until its life force returned to nature in peace.<br>For she knew that one day, she too would embark on a journey to the place where the souls of her prey rested.<br>The Viridescent Venerer believed that at the end of her life, she would wake up from reality,<br>and be reunited with the departed at an endless hunting ground.<br>But she also believed that the moment her arrow pierced through the monster that had killed the boy,<br>that endless hunting ground at the end of her life was gone from her grasp.<br>For she killed that mutated monster not for the sake of survival,<br>but out of vengeance and suffering.",
+        "price": "6"
+    },
+    "Viridescent Venerer's Determination": {
+        "name": "Viridescent Venerer's Determination",
+        "_id": "a_23410",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Viridescent Venerer",
+        "description": "A wondrous instrument that a hunter once wore. It forever points towards their prey.",
+        "story": "A delicate device used for wayfinding.<br>Legend has it that when the Viridescent Venerer walked barefoot on the fields,<br>the grass beneath her feet would tell her what the birds in the trees could see,<br>and the mud she trod on would tell her what the roots in the earth could hear.<br>But it is said that ever since disaster struck, the grass and trees never spoke again.<br>For the God of the Woods had died in the disaster.<br>Since then, she relied on this device for direction when hunting.<br>At the request of a boy she encountered, she ceased hunting birds and beasts.<br>Instead, she made the monsters that brought destruction and suffering her prey.",
+        "price": "6"
+    },
+    "Viridescent Venerer's Vessel": {
+        "name": "Viridescent Venerer's Vessel",
+        "_id": "a_23406",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Viridescent Venerer",
+        "description": "A water pouch used by the Viridescent Venerer. Its capacity is much greater than one would expect.",
+        "story": "A very robust and leakproof vessel.<br>A legendary hunter known as the Viridescent Venerer once used it to collect whispers by the campfire.<br>One night, the Viridescent Venerer picked up the scent of other human beings.<br>As a hunter, she feared neither wolf packs nor monsters.<br>What she feared far more than this was joining the chatter by the campfire.<br>For she had long forgotten how to speak human language.<br>Even after rejoining the humans and accepting her place as Viridescent Venerer, no one ever heard her say a single word.<br>Similarly, no one ever saw her leave a single trace behind.<br>The Viridescent Venerer collected the laughter she heard that night and stored it in her vessel.<br>For many years, she would listen back to the voices in the vessel whenever she felt lonely.",
+        "price": "6"
+    },
+    "Viridescent Venerer's Diadem": {
+        "name": "Viridescent Venerer's Diadem",
+        "_id": "a_23408",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Viridescent Venerer",
+        "description": "A proud crown that once belonged to the Viridescent Venerer. It is as lush and green as the breezes of the wild.",
+        "story": "A hunter's hat without any blood stains.<br>In folklore, it belonged to the uncrowned queen of hunters &#8212; the Viridescent Venerer.<br>\"Never become the foe of the earth and the forest.\" This was the hunters' rule.<br>Instead, a hunter should become a silent part of nature.<br>It is said that a bird once built its nest in this hat.<br>None could ever bestow a crown upon the queen of hunters,<br>since the only one superior to her was nature itself.<br>In the crisis that soon followed, her hunter's hat became<br>a frightful sight for monsters to behold.",
+        "price": "6"
+    },
+    "Flower of Creviced Cliff": {
+        "name": "Flower of Creviced Cliff",
+        "_id": "a_23499",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Archaic Petra",
+        "description": "A flower born of the minerals and rocks of cliffside cracks. The way its petals blow in the wind makes it seem alive.",
+        "story": "A flower that bloomed in a cliff's impregnable cleft.<br>It is an exquisite life shaped by the essence of Geo.<br>There is a folk saying that goes thus:<br>In times of yore, someone told the Lord of Geo that there was no life to be found in barren stone.<br>Thus did the Lord of Geo command flowers of purest gold to burst forth from the face of an uneven rock.<br>Perhaps the Geo Archon did once work such a great wonder,<br>Or perhaps this is but one of the many tales that shroud this ancient world.<br>But the prosperous harbor that grew out of the lifeless mountains,<br>And that braves the raging waves of the Sea of Clouds&#8212;<br>Perhaps that was the brilliant flower, after all.",
+        "price": "6"
+    },
+    "Feather of Jagged Peaks": {
+        "name": "Feather of Jagged Peaks",
+        "_id": "a_23497",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Archaic Petra",
+        "description": "A hard feather from a large seacliff hawk. The basalt tip of the feather sometimes glistens with a cool dew.",
+        "story": "A feather left behind by the giant wings that flattened the mountains.<br>Though it has long turned moss-green, this feather remains sharp as a naked blade.<br>They say that in ancient times, when the world was in turmoil, Rex Lapis plucked mountains and turned them into huge birds of prey.<br>These birds were carved out of rock and jade, and they soared above the ground once they had taken shape.<br>Spiraling toward the heavens, they pierced through the clouds and flattened many stone peaks therein.<br>They say that these rock kites spread their wings and dived towards the ocean,<br>And they fell from the sky like comets,<br>Right into the heart of the sea, and the monsters within...<br>And they say that the pillars of stone that jut out from the ocean continue to attract birds to this day.",
+        "price": "6"
+    },
+    "Sundial of Enduring Jade": {
+        "name": "Sundial of Enduring Jade",
+        "_id": "a_23500",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Archaic Petra",
+        "description": "A sundial carved from a single, large piece of jade. Its lined with a pattern that silently records the passage of time.",
+        "story": "A sundial made using regal jade.<br>It silently pursues both time and tide.<br>Even rocks that have stood firm for time immemorial will eventually disintegrate over time, crumbling into dust and gravel.<br>Legend has it that the Lord of Geo once made the glittering stars of the earth into devices for telling time, all the better to teach the ancient humans about the value of every moment.<br>Over the passage of time, this sundial came to be the prized possession of Kunwu, who was then still a young scholar in training.<br>\"When I was young, I dreamed of studying the classics and going to Sumeru to attain the greatest wisdom.\"<br>\"Yet when gaining this dial, I played with and examined it for many long days, and could not find in it a single flaw.\"<br>\"Thus I changed tacks and sought a master craftsman to learn a new trade, and thereby challenge the creator of this divine tool.\"",
+        "price": "6"
+    },
+    "Goblet of Chiseled Crag": {
+        "name": "Goblet of Chiseled Crag",
+        "_id": "a_23496",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Archaic Petra",
+        "description": "A resplendent yet dignified wine goblet, once filled to the brim in an era long gone.",
+        "story": "A vessel for wine carved from immovable rock.<br>It is said to be filled with the ambrosia of sovereigns.<br>It behooves basalt to be impregnable, and crystal to shine in its translucence.<br>Going incognito amongst mortals should be likewise, exquisite in its enjoyments.<br>Folk legend holds that in order to drink wine,<br>Rex Lapis brought forth bedrock,<br>And carved jade and lovely stone into a wine vessel for himself.<br>Some even say that there were once seven such vessels.",
+        "price": "6"
+    },
+    "Mask of Solitude Basalt": {
+        "name": "Mask of Solitude Basalt",
+        "_id": "a_23498",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Archaic Petra",
+        "description": "A solemn mask exquisitely carved from basalt. Its hollow eyes stare ahead expressionless and cold.",
+        "story": "It is said that during the years when gods contended against one another, Rex Lapis' aspect was that of boundless slaughter.<br>In those god-eat-god battles, one could never have ascribed gentleness to him.<br>He knew right from wrong, and never missed his mark: in those days of tumult, he would show no mercy, even to friends-turned-foes.<br>Rex Lapis' stone-cold expression never once changed throughout that storied age.<br>They say that only when the dust settled did he lay down that unmovable visage.<br>But it had been necessary, for he had donned it to fulfill a contract.",
+        "price": "6"
+    },
+    "Witch's Flower of Blaze": {
+        "name": "Witch's Flower of Blaze",
+        "_id": "a_23369",
+        "genre": "artifact",
+        "type": "Flower of Life",
+        "set": "Crimson Witch of Flames",
+        "description": "A flower touched by the witch who once dreamt of burning away all the demons in the world. The anonymous flames affectionately caress the hands of those who touch it.",
+        "story": "A common species of flower.<br>It is curiously capable of resisting the Crimson Witch's flames.<br>A crisis centuries ago dashed all hope of the maiden seeing the future promised to her.<br>Those dear to her, her past days, and her bright future. All gone.<br>From the ashes, the Crimson Witch of Flame was born, and she burned away her pain with fire.<br>Yet this flower stayed resilient, soft, and moist.<br>Perhaps both painful and beautiful memories were two sides of the same coin.",
+        "price": "6"
+    },
+    "Witch's Ever-Burning Plume": {
+        "name": "Witch's Ever-Burning Plume",
+        "_id": "a_23367",
+        "genre": "artifact",
+        "type": "Plume of Death",
+        "set": "Crimson Witch of Flames",
+        "description": "A bird feather touched by the witch who once dreamt of burning away all the demons in the world. Its eternal flame burns hot.",
+        "story": "A forever-burning bird feather.<br>The fire shall burn for all eternity.<br>Scorched earth followed in her wake, for she chose a path of hellfire.<br>Though her fires only touched monsters and demons,<br>People still cowered behind closed windows and tried to drive her away. But none of that mattered to her.<br>New hopes were birthed from the fires of old pains.<br>She needed not comforting nor sympathy.<br>Chirping by her side, the birds gave her all the understanding she needed.",
+        "price": "6"
+    },
+    "Witch's End Time": {
+        "name": "Witch's End Time",
+        "_id": "a_23370",
+        "genre": "artifact",
+        "type": "Sands of Eon",
+        "set": "Crimson Witch of Flames",
+        "description": "A timepiece worn by the witch who dreamt of burning away all the demons in the world. The years the witch dedicated to the flames flow within.",
+        "story": "A small vessel containing a high-temperature liquid.<br>It is said to be the molten souls of evil spirits.<br>A special Hydro timepiece given to the Crimson Witch before calamity struck. Back then she was still a maiden, and had not yet embarked on her journey.<br>One cycle was the time required to finish her study at the Academia.<br>By the time the countdown ended and she returned to her hometown, its previous owner had become a casualty of the crisis.<br>Her maiden years were over. The Crimson Witch of Flame was born, and with her the era of destruction.<br>The timepiece bore witness to the days of monsters and the pain they caused, until all were burned away.",
+        "price": "6"
+    },
+    "Witch's Heart Flames": {
+        "name": "Witch's Heart Flames",
+        "_id": "a_23366",
+        "genre": "artifact",
+        "type": "Goblet of Eonothem",
+        "set": "Crimson Witch of Flames",
+        "description": "A flame-spitting urn left behind by the Crimson Witch of Flames, who once dreamt of burning away all the demons in the world. The fire in the urn burns eternally, as did its former master.",
+        "story": "A clear bottle containing liquid fire.<br>The techniques involved in making liquid fire have since been lost.<br>The Crimson Witch of Flame walked upon the earth, burning monsters into cinders.<br>Rumor told of how she sacrificed her mortal body to become the embodiment of liquid fire herself.<br>Still, love and longing once dwelt in her maiden heart.<br>Until fires burned away that beautiful and fragile part.<br>Thus, she became the witch that historians were loath to remember.",
+        "price": "6"
+    },
+    "Witch's Scorching Hat": {
+        "name": "Witch's Scorching Hat",
+        "_id": "a_23368",
+        "genre": "artifact",
+        "type": "Circlet of Logos",
+        "set": "Crimson Witch of Flames",
+        "description": "A hat once worn by the witch who dreamt of burning away all of the demons in the world. The large brim blocked her sight.",
+        "story": "A traditional witch's pointed hat with a large brim.<br>It grants a witch the reverence and fear which she commands.<br>To the Crimson Witch of Flame, this large hat shielded her from surrounding distractions.<br>It was how she was able to hone her Pyro skills when she was still an apprentice.<br>In combat, she needed not pay attention to monsters disintegrating in flames.<br>Nor did she need to look at her own burnt face in the water's reflection.<br>And so the Crimson Witch continued to burn, blind to the extent of her devastation.",
+        "price": "6"
+    }
+}

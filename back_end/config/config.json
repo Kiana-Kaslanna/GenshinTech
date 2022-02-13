@@ -1,0 +1,10 @@
+{
+    "client_host": "http://localhost:3000",
+    "connection": "mongodb+srv://AdminPJ:7BPeyEMahQvR@kiana.xsdk6.mongodb.net/GenshinTech?retryWrites=true&w=majority",
+    "db_name": "GenshinTech",
+    "db_collection": "data",
+    "user_collection": "user",
+    "wish_collection": "wish",
+    "cart_collection": "cart",
+    "order_collection": "order"
+}
