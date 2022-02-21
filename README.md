@@ -44,7 +44,7 @@ Then start the front-end server by:
 npm start
 ~~~
 
-## Front End by Ant Design
+## Front End by Ant Design (not completed)
 
 ~~~
 cd front_end_ant_design
