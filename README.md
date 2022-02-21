@@ -38,8 +38,16 @@ cd front_end
 npm install
 ~~~
 
-Then start the back-end server by:
+Then start the front-end server by:
 
 ~~~
+npm start
+~~~
+
+## Front End by Ant Design
+
+~~~
+cd front_end_ant_design
+npm install
 npm start
 ~~~
