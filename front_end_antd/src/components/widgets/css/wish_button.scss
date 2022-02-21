@@ -1,0 +1,38 @@
+@import '../../../config/style.scss';
+.wish_button {
+    border-radius: 50%;
+    background-color: $color_grey_2;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 65%;
+    right: 5%;
+    transition: all .3s ease-in-out;
+}
+
+.wish_button svg {
+    width: 30px;
+    height: 30px;
+}
+
+.wish_button:hover {
+    background-color: $color_grey_3;
+}
+
+.wish_button_active {
+    fill: $color_dark_blue;
+    border: 1px solid $color_dark_blue;
+}
+
+.wish_button_inactive {
+    fill: white;
+    border: 1px solid white;
+}
+
+.wish_remove svg {
+    width: 25px;
+    height: 25px;
+}

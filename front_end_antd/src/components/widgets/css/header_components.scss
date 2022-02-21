@@ -1,0 +1,54 @@
+@import '../../../config/style.scss';
+.header_components {
+    height: 25px;
+    margin: 3px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: $dark_button_background_hover;
+    display: flex;
+    align-items: center;
+}
+
+.header_components text,
+.header_components a {
+    color: white;
+}
+
+.header_components a {
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.header_components a:hover {
+    text-decoration: underline;
+}
+
+.header_components svg {
+    fill: white;
+    width: 28px;
+    height: 28px;
+}
+
+.header_components .space {
+    width: 10px;
+}
+
+.header_components_lite {
+    background: none;
+    padding: 0;
+}
+
+.header_components_lite svg {
+    margin: 0 2px;
+    width: 25px;
+    height: 25px;
+}
+
+.noti_icon{
+    margin: 0 0 0 10px;
+    border-radius: 3px;
+    background-color: $color_highlight;
+    padding: 0 3px;
+    display: flex;
+    justify-content: center;
+}

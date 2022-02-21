@@ -1,0 +1,127 @@
+@import '../../../config/style.scss';
+
+/* object page */
+
+.object_page .buy_panel .light_button {
+    width: 44%;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 2px;
+}
+
+.object_page .grey_button {
+    width: 93%;
+    margin: 2px auto 10px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.object_page .img_container,
+.object_page .info_table,
+.object_page .buy_panel {
+    display: inline-block;
+    margin: 20px;
+    width: 80vw;
+    max-width: 300px;
+}
+
+.object_page .object_box .img_container {
+    display: flex;
+    margin: auto;
+    width: auto;
+    max-width: none;
+}
+
+.object_page .img_container {
+    height: 300px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.info_table {
+    text-align: left;
+    border-radius: 5px;
+    border: 2px solid $color_grey_3;
+    padding: 10px;
+    padding-bottom: 15px;
+    vertical-align: top;
+    font-size: 16px;
+}
+
+.info_table li {
+    border-bottom: 1px solid $color_grey_3 !important;
+    padding-bottom: 0.25rem !important;
+    padding-top: 0.25rem !important;
+    display: flex !important;
+}
+
+.info_table ul {
+    text-align: left !important;
+    width: 100% !important;
+    padding-left: 0;
+    list-style: none;
+    margin-top: 5px;
+}
+
+.info_table b {
+    width: 45%;
+}
+
+.info_table div {
+    width: 49%;
+}
+
+.buy_panel {
+    display: inline-block;
+    border-radius: 5px;
+    border-top: 2px solid $color_highlight;
+    background-color: $color_grey_1;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.in_stock,
+.out_of_stock {
+    padding: 20px 0px;
+    margin: 30px 0px 40px;
+    border-top: 1px solid $color_grey_3;
+    border-bottom: 1px solid $color_grey_3;
+    text-align: center;
+}
+
+.in_stock::before {
+    content: "In stock at Genshin Tech";
+    color: green;
+}
+
+.out_of_stock::before {
+    content: "Currently Not Available";
+    color: red;
+}
+
+.object_page .story {
+    text-align: left;
+    margin: 20px auto;
+    max-width: 70vw;
+    width: fit-content;
+    line-height: 30px;
+    font-style: italic;
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px solid $color_grey_3;
+}
+
+
+.product_page_component{
+    margin: auto;
+    max-width: 330px;
+    display: flex;
+    justify-content: center;
+    width: 90vw;
+    border: 1px solid;
+    padding: 30px 10px;
+}

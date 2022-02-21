@@ -1,0 +1,63 @@
+// dark button
+$dark_button_background:#0d4f77;
+$dark_button_foreground:white;
+$dark_button_background_hover:#0e4364;
+$dark_button_foreground_hover:white;
+$dark_button_background_hover_variant:#1278A5;
+// light button
+$light_button_background:rgb(255, 167, 4);
+$light_button_foreground:white;
+$light_button_background_hover:rgb(240, 156, 0);
+$light_button_foreground_hover:white;
+// grey button
+$grey_button_background:rgb(153, 153, 153);
+$grey_button_foreground:white;
+$grey_button_background_hover:rgb(129, 129, 129);
+$grey_button_foreground_hover:white;
+// danger button
+$danger_button_background:#e91b1b;
+$danger_button_foreground:white;
+$danger_button_background_hover:#9e1b1b;
+$danger_button_foreground_hover:white;
+// colors
+$color_light_blue:rgb(242, 247, 250);
+$color_medium_blue:rgb(220, 238, 250);
+$color_dark_blue:rgb(141, 157, 228);
+$color_grey_1:rgb(250, 250, 250);
+$color_grey_2:rgb(240, 240, 240);
+$color_grey_3:rgb(225, 225, 225);
+$color_grey_4:rgb(180, 180, 180);
+$color_grey_5:rgb(140, 140, 140);
+$color_grey_6:rgb(68, 68, 68);
+$color_highlight:rgb(255, 167, 4);
+$color_trans_light_grey:rgba(0, 0, 0, .1);
+:export {
+    dark_button_background: $dark_button_background;
+    dark_button_foreground: $dark_button_foreground;
+    dark_button_background_hover: $dark_button_background_hover;
+    dark_button_foreground_hover: $dark_button_foreground_hover;
+    dark_button_background_hover_variant: $dark_button_background_hover_variant;
+    light_button_background: $light_button_background;
+    light_button_foreground: $light_button_foreground;
+    light_button_background_hover: $light_button_background_hover;
+    light_button_foreground_hover: $light_button_foreground_hover;
+    grey_button_background: $grey_button_background;
+    grey_button_foreground: $grey_button_foreground;
+    grey_button_background_hover: $grey_button_background_hover;
+    grey_button_foreground_hover: $grey_button_foreground_hover;
+    danger_button_background: $danger_button_background;
+    danger_button_foreground: $danger_button_foreground;
+    danger_button_background_hover: $danger_button_background_hover;
+    danger_button_foreground_hover: $danger_button_foreground_hover;
+    color_light_blue: $color_light_blue;
+    color_medium_blue: $color_medium_blue;
+    color_dark_blue: $color_dark_blue;
+    color_grey_1: $color_grey_1;
+    color_grey_2: $color_grey_2;
+    color_grey_3: $color_grey_3;
+    color_grey_4: $color_grey_4;
+    color_grey_5: $color_grey_5;
+    color_grey_6: $color_grey_6;
+    color_highlight: $color_highlight;
+    color_trans_light_grey: $color_trans_light_grey;
+}

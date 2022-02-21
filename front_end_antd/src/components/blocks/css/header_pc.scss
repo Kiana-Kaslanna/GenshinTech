@@ -1,0 +1,141 @@
+@import '../../../config/style.scss';
+.header_pc_animate.enter-done {
+    top: 0px;
+}
+
+.header_pc_animate.enter {
+    top: -107px;
+}
+
+.header_pc_animate.enter-active {
+    top: 0px;
+    transition: top .3s ease;
+}
+
+.header_pc_animate.exit {
+    top: 0px;
+}
+
+.header_pc_animate.exit-active {
+    top: -107px;
+    transition: top .3s ease;
+}
+
+.header_pc_animate.exit-done {
+    top: -107px;
+}
+
+#header_pc_container {
+    // position: fixed;
+    z-index: 666;
+    width: 100%;
+    background: $dark_button_background;
+    color: white;
+    fill: white;
+}
+
+#header_pc_c1 {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+    top: 0;
+    z-index: 505;
+    background-color: $dark_button_background;
+    display: flex;
+    justify-content: space-between;
+    font-size: 13.5px;
+    padding-top: 15px;
+}
+
+#header_pc_c1 div {
+    display: flex;
+}
+
+#header_pc_c1 img {
+    margin-left: 10px;
+}
+
+#header_pc_c2 {
+    width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    line-height: 25px;
+    padding: 5px 0 0 0;
+}
+
+#header_pc_c2 div {
+    display: flex;
+    font-size: 14px;
+    padding-top: 5px;
+    align-items: center;
+}
+
+#header_pc_c2 div div {
+    cursor: pointer;
+    height: 30px;
+    line-height: 30px;
+    padding: 3px 10px;
+    display: flex;
+    font-size: 14px;
+}
+
+#header_pc_c2 svg {
+    width: 23px;
+    height: 23px;
+    margin-right: 5px;
+}
+
+#header_pc_c21 {
+    padding-left: 0;
+}
+
+#header_pc_c22 {
+    margin-right: 0;
+}
+
+#header_pc_dd {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+#header_pc_dd_bg {
+    background: $color_trans_light_grey;
+    z-index: 606;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+#header_pc_dd_container {
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    height: fit-content;
+    flex-direction: column;
+    align-items: flex-start;
+    z-index: 666;
+}
+
+.header_pc_ddc {
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+
+.header_pc_ddc div {
+    padding: 10px 30px;
+    text-align: start;
+    border-top: 2px solid $color_grey_1;
+    cursor: pointer;
+    transition: .3s all ease-in-out;
+}
+
+.header_pc_ddc div:first-child {
+    border-top: none;
+}
+
+.header_pc_ddc div:hover {
+    background-color: $color_light_blue;
+}

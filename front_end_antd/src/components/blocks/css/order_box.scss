@@ -1,0 +1,13 @@
+@import '../../../config/style.scss';
+.order_box .title {
+    text-align: left;
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: $color_highlight;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.order_box>div:nth-child(2) {
+    border-top: 1px solid $color_grey_3;
+}
