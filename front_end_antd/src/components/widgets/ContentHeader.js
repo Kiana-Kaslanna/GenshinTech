@@ -1,7 +1,7 @@
 import { Breadcrumb, PageHeader } from 'antd'
 import { Link, useNavigate } from 'react-router-dom'
 import './css/content_header.scss'
-import 'antd/dist/antd.css';
+
 
 export default function ContentHeader(props) {
 
