@@ -22,7 +22,9 @@ export default function ObjectGallery(props) {
         url || (ids && ids !== []) ?
             done ?
                 <div className='object_gallery width_limit_1100'>
-                    <div className='title'>{title}</div>
+                    {
+                        title ? <div className='title'>{title}</div> : ''
+                    }
                     <Row gutter={16}>
                         {
                             url ?

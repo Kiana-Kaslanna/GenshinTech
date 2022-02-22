@@ -1,7 +1,4 @@
 @import '../../../config/style.scss';
-
-
-
 .object_box h1 {
     font-size: 22px;
     font-weight: 500;
@@ -55,7 +52,6 @@
     margin: 10px;
 }
 
-
 .card {
     margin: 10px auto;
     overflow: hidden;
@@ -69,12 +65,21 @@
     width: 250px;
 }
 
-.card .card_cover{
+.card .card_cover {
     width: 208px;
     height: 208px;
     object-fit: contain;
     margin: 20px auto 10px;
 }
-.card .ant-card-body{
+
+.card .ant-card-body {
     width: 100%;
 }
+
+.card .ant-card-actions>li {
+    margin: 0;
+}
+
+// .card .ant-btn {
+//     border: 0;
+// }

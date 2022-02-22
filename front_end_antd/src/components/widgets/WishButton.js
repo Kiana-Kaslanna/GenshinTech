@@ -58,14 +58,14 @@ export default function WishButton(props) {
 
     return (
         isLite ?
-            <div onClick={onClickHandler}
-                className={isActive ?
-                    "wish_button wish_button_active cursor_pointer" :
-                    "wish_button wish_button_inactive cursor_pointer"}>
+            <Button
+                type="text"
+                onClick={onClickHandler}
+                style={{ width: '100%' }}>
                 {
                     isActive ? <SvgLikeFill /> : <SvgLike />
                 }
-            </div>
+            </Button>
             :
             remove ?
                 <div className='cursor_pointer danger_button' onClick={onRemoveHandler}>

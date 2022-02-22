@@ -1,34 +1,34 @@
-@import '../../../config/style.scss';
-#header_mb_container {
-    position: fixed;
-    z-index: 666;
-    width: 100%;
-    background: $dark_button_background;
-    display: flex;
-    flex-direction: column;
-}
+// @import '../../../config/style.scss';
+// #header_mb_container {
+//     position: fixed;
+//     z-index: 666;
+//     width: 100%;
+//     background: $dark_button_background;
+//     display: flex;
+//     flex-direction: column;
+// }
 
-#header_mb_content {
-    padding: 3px 0;
-}
+// #header_mb_content {
+//     padding: 3px 0;
+// }
 
-#header_mb_content,
-#header_mb_content div {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
+// #header_mb_content,
+// #header_mb_content div {
+//     display: flex;
+//     flex-direction: row;
+//     justify-content: space-between;
+// }
 
-#header_mb_content #header_mb_search_search_call {
-    opacity: 0;
-}
+// #header_mb_content #header_mb_search_search_call {
+//     opacity: 0;
+// }
 
-#header_mb_container img {
-    height: 30px;
-}
+// #header_mb_container img {
+//     height: 30px;
+// }
 
-@media only screen and (max-width: 550px) {
-    #header_mb_container img {
-        display: none;
-    }
-}
+// @media only screen and (max-width: 550px) {
+//     #header_mb_container img {
+//         display: none;
+//     }
+// }

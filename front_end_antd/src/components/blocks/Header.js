@@ -4,7 +4,7 @@ import HeaderPC from "./HeaderPC";
 
 export default function Header() {
     return (
-        <div id="Header">
+        <div style={{ height: '100%' }}>
             <div id="HeaderPC">
                 <HeaderPC />
             </div>

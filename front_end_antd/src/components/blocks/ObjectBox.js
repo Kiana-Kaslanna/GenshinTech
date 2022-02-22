@@ -27,22 +27,40 @@ function ObjectBox(props) {
                     alt='Internet Error' />
             }
             actions={[
-                <SvgLike />,
-                <SvgCart />
+                <WishButton _id={data._id} isLite={true} />,
+                <CartButton isLite={true} _id={data._id} />
             ]}>
-            <Meta
-                avatar={
-                    <Popover className='cursor_pointer' content={data.genre === 'character' ? data.element : 'Artifact'} trigger="hover">
-                        <Avatar src={data.genre === 'character' ? `${config.backend_host}data/img/element/${data.element}.svg`
-                            : null} />
-                    </Popover>
-                }
-                title={<div className="cursor_pointer text_overflow_hidden" onClick={forwardToPage} >{data.name}</div>}
-                description={<div className="text_overflow_hidden">
-                    {data.genre === 'character' ? data.title : ''}
-                    {data.genre === 'artifact' ? data.set : ''}
-                </div>}
-            />
+            {
+                data.genre === 'character' ?
+                    <Meta
+                        avatar={
+                            <Popover className='cursor_pointer' content={data.element} trigger="hover">
+                                <Avatar src={`${config.backend_host}data/img/element/${data.element}.svg`} />
+                            </Popover>
+                        }
+                        title={
+                            <Popover className='cursor_pointer' content={data.name} trigger="hover">
+                                <div className="cursor_pointer text_overflow_hidden" onClick={forwardToPage} >{data.name}</div>
+                            </Popover>
+                        }
+                        description={<div className="text_overflow_hidden" >
+                            {data.title}
+                        </div>}
+                    />
+                    : ""}
+            {
+                data.genre === 'artifact' ?
+                    <Meta
+                        title={
+                            <Popover className='cursor_pointer' content={data.name} trigger="hover">
+                                <div className="cursor_pointer text_overflow_hidden" onClick={forwardToPage} >{data.name}</div>
+                            </Popover>
+                        }
+                        description={<div className="text_overflow_hidden">
+                            {data.set}
+                        </div>}
+                    /> : ""
+            }
         </Card>
     );
 }

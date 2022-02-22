@@ -1,3 +1,4 @@
+import Search from "antd/lib/input/Search";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import config from '../../config/config.json';
@@ -18,15 +19,15 @@ export function SearchBox(props) {
     const [searchGenre, setSearchGenre] = useState("")
 
     // disable the on press enter event on .select
-    useEffect(() => {
-        const selection = document.querySelector('.select');
-        selection.addEventListener('keydown', (e) => {
-            if (e.keyCode == 13) {
-                e.preventDefault();
-                return false
-            }
-        })
-    })
+    // useEffect(() => {
+    //     const selection = document.querySelector('.select');
+    //     selection.addEventListener('keydown', (e) => {
+    //         if (e.keyCode == 13) {
+    //             e.preventDefault();
+    //             return false
+    //         }
+    //     })
+    // })
 
     // function to search
     const doSearch = () => {
@@ -75,16 +76,23 @@ export function SearchBox(props) {
 
             </div>
             :
-            <div className='search_box'>
-                <input
-                    type="text"
-                    value={searchInput}
-                    onChange={(e) => setSearchInput(e.target.value)}
-                    onKeyDown={enterToSearch}
-                />
-                <div onClick={doSearch} className="search_call light_button">
-                    <SvgSearch />
-                </div>
-            </div>
+            <Search
+                style={{ width: 200 }}
+                value={searchInput}
+                onChange={(e) => setSearchInput(e.target.value)}
+                placeholder="input search text"
+                onSearch={doSearch}
+                enterButton />
+        // <div className='search_box'>
+        //     <input
+        //         type="text"
+        //         value={searchInput}
+        //         onChange={(e) => setSearchInput(e.target.value)}
+        //         onKeyDown={enterToSearch}
+        //     />
+        //     <div onClick={doSearch} className="search_call light_button">
+        //         <SvgSearch />
+        //     </div>
+        // </div>
     );
 }

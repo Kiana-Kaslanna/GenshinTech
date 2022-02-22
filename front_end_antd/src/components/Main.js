@@ -16,8 +16,9 @@ import User from "./pages/User";
 import color from "../config/style.scss"
 import Error from "./pages/Error";
 import Ftr from "./blocks/Footer";
-
-import { Layout, Breadcrumb } from 'antd'
+import 'antd/dist/antd.css';
+import { Layout, Breadcrumb, Row, Col } from 'antd'
+import { SearchBox } from "./widgets/SearchBox";
 
 const { Header, Content, Footer } = Layout;
 
@@ -47,7 +48,7 @@ export default function Main() {
                 <div id="Main">
                     <Layout className="layout">
                         <Header>
-                            {/* <Hdr /> */}
+                            <Hdr />
                         </Header>
                         <Content>
                             <div id="Body" >
