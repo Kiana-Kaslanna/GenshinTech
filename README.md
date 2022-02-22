@@ -47,7 +47,7 @@ npm start
 ## Front End by Ant Design (not completed)
 
 ~~~
-cd front_end_ant_design
+cd front_end_antd
 npm install
 npm start
 ~~~
