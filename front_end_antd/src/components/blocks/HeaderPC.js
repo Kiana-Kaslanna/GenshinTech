@@ -144,7 +144,6 @@ export default function HeaderPC() {
                     } placement="bottomLeft">
                         <Button><SvgMenu /></Button>
                     </Dropdown>
-
                 </Col>
                 <Col>
                     <h2>Genshin Tech</h2>

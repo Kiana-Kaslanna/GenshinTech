@@ -7,28 +7,44 @@
 //     display: flex;
 //     flex-direction: column;
 // }
-
 // #header_mb_content {
 //     padding: 3px 0;
 // }
-
 // #header_mb_content,
 // #header_mb_content div {
 //     display: flex;
 //     flex-direction: row;
 //     justify-content: space-between;
 // }
-
 // #header_mb_content #header_mb_search_search_call {
 //     opacity: 0;
 // }
-
 // #header_mb_container img {
 //     height: 30px;
 // }
-
 // @media only screen and (max-width: 550px) {
 //     #header_mb_container img {
 //         display: none;
 //     }
 // }
+#header_mb,
+#header_mb .ant-row {
+    width: 100%;
+    height: 100%;
+}
+
+#header_mb svg {
+    fill: white;
+}
+
+#header_mb .ant-col:nth-child(2) {
+    flex-grow: 1;
+}
+
+.header_mb_popover .ant-popover-content {
+    width: 100vw !important;
+}
+
+.header_mb_popover .ant-popover-arrow {
+    display: none !important;
+}

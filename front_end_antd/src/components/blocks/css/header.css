@@ -20,19 +20,19 @@
     height: 100%;
 } */
 
-#HeaderPC {
+#header_pc {
     display: flex;
 }
 
-#HeaderMB {
+#header_mb {
     display: none;
 }
 
-/* @media only screen and (max-width: 1150px) {
-    #HeaderPC {
+@media only screen and (max-width: 1150px) {
+    #header_pc {
         display: none;
     }
-    #HeaderMB {
+    #header_mb {
         display: flex;
     }
-} */
+}

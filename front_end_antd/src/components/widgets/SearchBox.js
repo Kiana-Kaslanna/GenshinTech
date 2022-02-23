@@ -1,4 +1,6 @@
+import { Input, Select } from "antd";
 import Search from "antd/lib/input/Search";
+import { Option } from "antd/lib/mentions";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import config from '../../config/config.json';
@@ -49,32 +51,55 @@ export function SearchBox(props) {
 
     return (
         isLite ?
-            <div className='search_box search_box_lite'>
-                <SvgSearch className="cursor_pointer" onClick={doSearch} />
-                <div className="input_select">
-                    <input
-                        type="text"
-                        value={searchInput}
-                        onChange={(e) => setSearchInput(e.target.value)}
-                        onKeyDown={enterToSearch}
-                    />
-                    <select className="select"
-                        value={searchGenre}
-                        onChange={(e) => setSearchGenre(e.target.value)}
-                        onKeyDown={enterToSearch}>
-                        {
-                            department.map((v, i) => {
-                                return (
-                                    <option key={v} value={i === 0 ? "" : v.toLowerCase()}>
-                                        {v}
-                                    </option>
-                                );
-                            })
-                        }
-                    </select>
-                </div>
+            <Input.Group>
+                <Select defaultValue="all">
+                    <Option value="all">All Categories</Option>
+                    {
+                        department.map((v, i) => {
+                            return (
+                                <Option key={v} value={v.toLowerCase()}>
+                                    {v}
+                                </Option>
+                            );
+                        })
+                    }
+                </Select>
+                <Input.Search style={{ width: '50%' }} defaultValue="Xihu District, Hangzhou" />
 
-            </div>
+            </Input.Group>
+            // <Search
+            //     style={{ width: 200 }}
+            //     value={searchInput}
+            //     onChange={(e) => setSearchInput(e.target.value)}
+            //     placeholder="input search text"
+            //     onSearch={doSearch}
+            //     enterButton />
+            // <div className='search_box search_box_lite'>
+            //     <SvgSearch className="cursor_pointer" onClick={doSearch} />
+            //     <div className="input_select">
+            //         <input
+            //             type="text"
+            //             value={searchInput}
+            //             onChange={(e) => setSearchInput(e.target.value)}
+            //             onKeyDown={enterToSearch}
+            //         />
+            //         <select className="select"
+            //             value={searchGenre}
+            //             onChange={(e) => setSearchGenre(e.target.value)}
+            //             onKeyDown={enterToSearch}>
+            //             {
+            //                 department.map((v, i) => {
+            //                     return (
+            //                         <option key={v} value={i === 0 ? "" : v.toLowerCase()}>
+            //                             {v}
+            //                         </option>
+            //                     );
+            //                 })
+            //             }
+            //         </select>
+            //     </div>
+
+            // </div>
             :
             <Search
                 style={{ width: 200 }}

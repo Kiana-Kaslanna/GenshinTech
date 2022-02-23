@@ -117,31 +117,31 @@
 // .header_pc_ddc div:hover {
 //     background-color: $color_light_blue;
 // }
-.header_pc {
+#header_pc {
     width: 100%;
     height: 100%;
 }
-.header_pc svg{
+#header_pc svg{
     fill: white;
 }
 
-.header_pc h2 {
+#header_pc h2 {
     color: white;
 }
 
-.header_pc .ant-row,
-.header_pc .ant-col {
+#header_pc .ant-row,
+#header_pc .ant-col {
     height: 100%;
 }
 
-.header_pc .ant-row {
+#header_pc .ant-row {
     width: 100%;
 }
 
-.header_pc .ant-col * {
+#header_pc .ant-col * {
     vertical-align: middle;
 }
 
-.header_pc .ant-col:nth-child(2) {
+#header_pc .ant-col:nth-child(2) {
     flex-grow: 1;
 }
