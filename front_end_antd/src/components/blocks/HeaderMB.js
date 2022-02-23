@@ -8,6 +8,23 @@ import { SvgMenu, SvgSearch } from "../widgets/Svg";
 import { UserPanel } from "../widgets/UserPanel";
 import { WishPanel } from "../widgets/WishPanel";
 import './css/header_mb.scss';
+import { Button, Col, Dropdown, Menu, Row, Space } from "antd";
+import SubMenu from "antd/lib/menu/SubMenu";
+import { useContext, useEffect, useState } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
+import { CSSTransition } from "react-transition-group";
+import config from '../../config/config.json';
+// do something with it
+import { Context } from "../../contexts/Context";
+import { toLowerNoSpace } from "../../service/data_formatter";
+import { setClassName, visibilityOff, visibilityOn } from "../../service/ui_modifier";
+import { CartPanel } from "../widgets/CartPanel";
+import { GenshinTechLogo } from "../widgets/GenshinTechLogo";
+import { SearchBox } from "../widgets/SearchBox";
+import { SvgCartFill, SvgLikeFill, SvgMenu, SvgUserFill } from "../widgets/Svg";
+import { UserPanel } from "../widgets/UserPanel";
+import { WishPanel } from "../widgets/WishPanel";
+import './css/header_pc.scss';
 
 export default function HeaderMB() {
 
